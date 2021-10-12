@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Sparrow</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-0000800001BD</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Sparrow (Passer domesticus) </FreeText>
+    <MediaName>Sparrow portrait</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Sparrow</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Veréb</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Passerdomesticus</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm4.staticflickr.com/3056/2376277009_c98115d599_b.jpg</MediaUri>
+     <MediaPreview>http://farm4.staticflickr.com/3056/2376277009_c98115d599_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Csaba1981</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>523469</Size>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Sparrow_5.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Sparrow</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Veréb</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Passerdomesticus</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Sparrow portrait</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-0000800001BD.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

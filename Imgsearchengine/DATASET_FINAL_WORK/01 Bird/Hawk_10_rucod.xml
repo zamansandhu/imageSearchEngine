@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Hawk</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-00008000015C</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Red-shouldered Hawk, Flamingo, Everglades</FreeText>
+    <MediaName>Red-shouldered Hawk</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Redshoulderedhawk</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Flamingo</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Everglades</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Buteolineatusextimus</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Buteolineatus</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm5.staticflickr.com/4100/4895300010_aae8575b35_b.jpg</MediaUri>
+     <MediaPreview>http://farm5.staticflickr.com/4100/4895300010_aae8575b35_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Dave Irving</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>419636</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>Music by the local Orlando band, Cityful. Video by Quick-DrawCreative.com.</FreeText>
+    <MediaName>Wild Florida Red-shouldered Hawk</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Red-shouldered</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Hawk</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Falcon</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Wildlife</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Reptile</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=mYjZ2UL1IJE</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/mYjZ2UL1IJE/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>ArtistType</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>227</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Hawk_10.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Redshoulderedhawk</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Flamingo</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Everglades</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Buteolineatusextimus</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Buteolineatus</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Red-shouldered</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Hawk</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Falcon</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Wildlife</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Reptile</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Red-shouldered Hawk</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-00008000015C.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

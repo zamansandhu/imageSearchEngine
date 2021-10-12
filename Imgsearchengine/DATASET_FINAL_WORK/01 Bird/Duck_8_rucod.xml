@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Duck</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-00008000012E</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Bathtime or Birthday.  A large rubber duck shaped novelty cake covered in traditional yellow icing with the orange bill. The option of two flavours.  Placed on a bubble effect cake board with funky message.  Definately not one for the bath</FreeText>
+    <MediaName>Rubber_Duck_Cake_5005</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Babies</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bath</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bathtime</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Birthdaycake</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Cake</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Celebration</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Childrens</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Kids</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm8.staticflickr.com/7020/6387956209_56b2d813d4_z.jpg</MediaUri>
+     <MediaPreview>http://farm8.staticflickr.com/7020/6387956209_56b2d813d4_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Cakescrazy</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>184704</Size>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Duck_8.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Babies</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bath</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bathtime</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Birthdaycake</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Cake</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Celebration</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Childrens</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Kids</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Rubber_Duck_Cake_5005</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-00008000012E.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

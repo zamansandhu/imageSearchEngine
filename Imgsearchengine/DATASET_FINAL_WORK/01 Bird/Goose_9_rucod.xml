@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Goose</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-00008000015A</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Canadian Goose</FreeText>
+    <MediaName>Canadian Goose</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Canadian</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Goose</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Attenborough</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Reserve</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Wildlife</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nottinghamshire</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm5.staticflickr.com/4003/4656125602_abb44fc816_b.jpg</MediaUri>
+     <MediaPreview>http://farm5.staticflickr.com/4003/4656125602_abb44fc816_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>John Glass</Name>
+     </Author>
+     <Licensing>Attribution-NoDerivs License</Licensing>
+    </MediaCreationInformation>
+    <Size>414106</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>Canada Geese are easy to find, they're big and they move around. Put those 3 things together and I figured that a goose would be a good bird to practice tracking with the camera on the tripod. Well, that and the fact that I wasn't having much luck finding the Red-Winged Blackbirds I was really looking for. ;-) With the warm weather, the geese should be nesting soon.</FreeText>
+    <MediaName>Canada Goose (Branta canadensis)</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Canada Goose</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Branta canadensis</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Grand River</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Conservation Authority</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">GRCA</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=k6zT2D4mRt4</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/k6zT2D4mRt4/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>splake1944</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>61</MediaTime>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>Listening to the open fields of Marken (the Netherlands)</FreeText>
+    <MediaName>marken2.mp3</MediaName>
+    <FileFormat>audio/mpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Lifeboat</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Open</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Goose</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Field</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Wind</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Marken</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/32198/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/32/32198_34216_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/marken2.mp3_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>klankschap</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>8130270</Size>
+    <MediaTime>339</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Goose_9.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Canadian</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Goose</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Attenborough</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Reserve</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Wildlife</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nottinghamshire</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Canada Goose</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Branta canadensis</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Grand River</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Conservation Authority</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">GRCA</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Lifeboat</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Open</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Field</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Wind</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Marken</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Canadian Goose</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-00008000015A.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>marken2.mp3</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-00008000015A.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

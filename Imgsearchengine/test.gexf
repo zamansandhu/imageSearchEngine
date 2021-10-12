@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="networkx_key" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>06/05/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="English Carrier Pigeon" label="English Carrier Pigeon" />
+      <node id="homing pigeon" label="homing pigeon" />
+      <node id="Racing homer" label="Racing homer" />
+      <node id="Fantail Pigeons" label="Fantail Pigeons" />
+    </nodes>
+    <edges>
+      <edge id="0" source="English Carrier Pigeon" target="English Carrier Pigeon">
+        <attvalues>
+          <attvalue for="0" value="English Carrier Pigeon" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="English Carrier Pigeon" target="homing pigeon">
+        <attvalues>
+          <attvalue for="0" value="English Carrier Pigeon" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="English Carrier Pigeon" target="homing pigeon">
+        <attvalues>
+          <attvalue for="0" value="homing pigeon" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="English Carrier Pigeon" target="Racing homer">
+        <attvalues>
+          <attvalue for="0" value="English Carrier Pigeon" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="English Carrier Pigeon" target="Racing homer">
+        <attvalues>
+          <attvalue for="0" value="Racing homer" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="English Carrier Pigeon" target="Fantail Pigeons">
+        <attvalues>
+          <attvalue for="0" value="English Carrier Pigeon" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="English Carrier Pigeon" target="Fantail Pigeons">
+        <attvalues>
+          <attvalue for="0" value="Fantail Pigeons" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="homing pigeon" target="homing pigeon">
+        <attvalues>
+          <attvalue for="0" value="homing pigeon" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="homing pigeon" target="Racing homer">
+        <attvalues>
+          <attvalue for="0" value="homing pigeon" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="homing pigeon" target="Racing homer">
+        <attvalues>
+          <attvalue for="0" value="Racing homer" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="homing pigeon" target="Fantail Pigeons">
+        <attvalues>
+          <attvalue for="0" value="homing pigeon" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="homing pigeon" target="Fantail Pigeons">
+        <attvalues>
+          <attvalue for="0" value="Fantail Pigeons" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="Racing homer" target="Racing homer">
+        <attvalues>
+          <attvalue for="0" value="Racing homer" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="Racing homer" target="Fantail Pigeons">
+        <attvalues>
+          <attvalue for="0" value="Racing homer" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="Racing homer" target="Fantail Pigeons">
+        <attvalues>
+          <attvalue for="0" value="Fantail Pigeons" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="Fantail Pigeons" target="Fantail Pigeons">
+        <attvalues>
+          <attvalue for="0" value="Fantail Pigeons" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

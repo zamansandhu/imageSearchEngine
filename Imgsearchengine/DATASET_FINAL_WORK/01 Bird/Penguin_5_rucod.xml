@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Penguin</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-0000800001B0</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="Object3D">
+    <FreeText>an penguin, cute :)</FreeText>
+    <MediaName>penguin</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://sketchup.google.com/3dwarehouse/download?mid=a196f584e2d0c1125c70fb1df3f879b&amp;rtyp=zip&amp;fn=Untitled&amp;ctyp=other&amp;ts=1202487572000&amp;ct=gd</MediaUri>
+     <MediaPreview>http://sketchup.google.com/3dwarehouse/download?mid=a196f584e2d0c1125c70fb1df3f879b&amp;rtyp=lt&amp;ctyp=other&amp;ts=1202487572000&amp;ct=gd</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Jotham (http://sketchup.google.com/3dwarehouse/search?uq=0496976226258356266611912&amp;scoring=m&amp;ct=gd)</Name>
+     </Author>
+     <Licensing>Google 3D Warehouse License</Licensing>
+    </MediaCreationInformation>
+    <Size>31191</Size>
+   </MultimediaContent>
+   <MultimediaContent type="ImageType">
+    <FreeText>King Penguin at Volunteer Point near Stanley - East Falkland</FreeText>
+    <MediaName>King Penguin 123007 - 030</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Kingpenguin</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Kipe</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Volunteerpoint</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Falklandislands</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Eastfalkland</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Southatlantic</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Island</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Jeff</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm3.staticflickr.com/2287/2224583127_25ec41b2ee_z.jpg?zz=1</MediaUri>
+     <MediaPreview>http://farm3.staticflickr.com/2287/2224583127_25ec41b2ee_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Jeff Hammond</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>165888</Size>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Penguin_5.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Kingpenguin</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Kipe</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Volunteerpoint</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Falklandislands</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Eastfalkland</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Southatlantic</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Island</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Jeff</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>King Penguin 123007 - 030</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-0000800001B0.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="Object3D">
+   <MediaName>penguin</MediaName>
+   <Shape3DDescription matching="MultiViewL2" type="CMVD">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="212" descriptorSize="3816" totalNumOfViews="18">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/3D/80000000-8000-0000-F000-0000800001B0.zip.txt</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </Shape3DDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

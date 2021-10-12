@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Owl</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000182</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Tyto alba (Coruja-das-torres, Barn Owl)The Barn Owl (Tyto alba) is the most widely distributed species of owl, and one of the most widespread of all birds. It is also referred to as Common Barn Owl, to distinguish it from other species in the barn-owl family Tytonidae. These form one of two main lineages of living owls, the other being the typical owls (Strigidae). T. alba is found almost anywhere in the world except polar and desert regions, Asia north of the Alpide belt, most of Indonesia, and the Pacific islands.It is known by many other names, which may refer to the appearance, call, habitat or the eerie, silent flight: White Owl, Silver Owl, Demon Owl, Ghost Owl, Death Owl, Night Owl, Rat Owl, Church Owl, Cave Owl, Stone Owl, Monkey-faced Owl, Hissing Owl, Hobgoblin or Hobby Owl, Dobby Owl, Golden Owl, Scritch Owl, Screech Owl, Straw Owl, Barnyard Owl and Delicate Owl. &amp;quot;Golden Owl&amp;quot; might also refer to the related Golden Masked Owl (T. aurantia). &amp;quot;Hissing Owl&amp;quot; and, particularly in the USA, &amp;quot;screech owl&amp;quot;, referring to the piercing calls of these birds. The latter name, however, more correctly applies to a different group of birds, the screech-owls in the genus Megascops. The barn owl's scientific name, established by G.A. Scopoli in 1769, literally means &amp;quot;white owl&amp;quot;, from the onomatopoetic Ancient Greek tyto (τυτο) for an owl—compare English &amp;quot;hooter&amp;quot;—and Latin alba, &amp;quot;white&amp;quot;.The Ashy-faced Owl (T. glaucops) was for some time included in T. alba, and by some authors its Lesser Antilles populations insularis and nigrescens still are. The Barn Owls from the Indopacific region are sometimes separated as Eastern Barn-owl, Australian Barn-owl or Delicate Barn-owl (T. delicatula). While this may be warranted, it is not clear between which races to draw the line between the two species. Also, some island subspecies are occasionally treated as distinct species. While all this may be warranted, such a move is generally eschewed pending further information on Barn Owl phylogeography.&lt;a href="http://en.wikipedia.org/wiki/Tyto_alba" rel="nofollow">en.wikipedia.org/wiki/Tyto_alba&lt;/a>------------------------------------------------------------------------------------------------------------A coruja-das-torres (Tyto alba) é uma coruja da família dos titonídeos, também conhecida pelos nomes de coruja-da-igreja, coruja-branca, coruja-católica e rasga-mortalha. Habitam em diversos lugares do mundo, em geral, em todos os continentes exceto a Antártica, gostam de lugares abertos e de climas que variam de temperados aos tropicais.&lt;a href="http://pt.wikipedia.org/wiki/Coruja-das-torres" rel="nofollow">pt.wikipedia.org/wiki/Coruja-das-torres&lt;/a>20040916_300D_153_5336_Corujas</FreeText>
+    <MediaName>Tyto alba</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Canoneos300d</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Canonef100300mmf4556usm</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Europa</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Europe</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Portugal</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Estremadura</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Ave</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm6.staticflickr.com/5251/5499318632_5cf3bcd7ef_b.jpg</MediaUri>
+     <MediaPreview>http://farm6.staticflickr.com/5251/5499318632_5cf3bcd7ef_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>LusoFox</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>255521</Size>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Owl_7.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Canoneos300d</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Canonef100300mmf4556usm</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Europa</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Europe</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Portugal</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Estremadura</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Ave</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Tyto alba</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000182.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

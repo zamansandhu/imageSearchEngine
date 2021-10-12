@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Duck</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-00008000011D</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Rubber Duck, Independence Day, Knoxville, Tennessee</FreeText>
+    <MediaName>Rubber Duck</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Knoxville</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Murorandr</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Independenceday</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Unitedstates</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Rubberduck</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Tennessee</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm5.staticflickr.com/4081/4764342177_d076a3ec48_b.jpg</MediaUri>
+     <MediaPreview>http://farm5.staticflickr.com/4081/4764342177_d076a3ec48_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Frank Kehren</Name>
+     </Author>
+     <Licensing>Attribution-NonCommercial-NoDerivs License</Licensing>
+    </MediaCreationInformation>
+    <Size>427008</Size>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Duck_1.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Knoxville</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Murorandr</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Independenceday</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Unitedstates</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Rubberduck</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Tennessee</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Rubber Duck</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-00008000011D.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

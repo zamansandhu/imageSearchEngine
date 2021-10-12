@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Penguin</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-0000800001B1</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="Object3D">
+    <FreeText>This is an emperor penguin that ate way too much fish :)</FreeText>
+    <MediaName>Fat Penguin</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://sketchup.google.com/3dwarehouse/download?mid=73e484d29d2fe115f343c623cd2180ab&amp;rtyp=zip&amp;fn=bigfatpenguin&amp;ctyp=other&amp;ts=1274661557000&amp;ct=gd</MediaUri>
+     <MediaPreview>http://sketchup.google.com/3dwarehouse/download?mid=73e484d29d2fe115f343c623cd2180ab&amp;rtyp=lt&amp;ctyp=other&amp;ts=1274661557000&amp;ct=gd</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>AIME (http://sketchup.google.com/3dwarehouse/search?uq=0504479355119005545745301&amp;scoring=m&amp;ct=gd)</Name>
+     </Author>
+     <Licensing>Google 3D Warehouse License</Licensing>
+    </MediaCreationInformation>
+    <Size>45101</Size>
+   </MultimediaContent>
+   <MultimediaContent type="ImageType">
+    <FreeText>Emperor Penguin (Aptenodytes forsteri) at Seaworld</FreeText>
+    <MediaName>Emperor Penguin</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">September2008</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Autumn2008</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Tz3</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Usa</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">America</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Unitedstatesofamerica</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Florida</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Orlando</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm4.staticflickr.com/3224/2899767051_478c90101b_b.jpg</MediaUri>
+     <MediaPreview>http://farm4.staticflickr.com/3224/2899767051_478c90101b_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Andrew steele</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>471860</Size>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Penguin_6.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">September2008</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Autumn2008</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Tz3</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Usa</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">America</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Unitedstatesofamerica</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Florida</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Orlando</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Emperor Penguin</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-0000800001B1.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="Object3D">
+   <MediaName>Fat Penguin</MediaName>
+   <Shape3DDescription matching="MultiViewL2" type="CMVD">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="212" descriptorSize="3816" totalNumOfViews="18">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/3D/80000000-8000-0000-F000-0000800001B1.zip.txt</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </Shape3DDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

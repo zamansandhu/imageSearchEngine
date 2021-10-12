@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Duck</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000126</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="Object3D">
+    <FreeText>Ente</FreeText>
+    <MediaName>Ente</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Duck</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://sketchup.google.com/3dwarehouse/download?mid=960101f3f6728267f5982f1c497c18e7&amp;rtyp=zip&amp;fn=Ente+einzel+klein&amp;ctyp=other&amp;ts=1298122425000&amp;ct=gd</MediaUri>
+     <MediaPreview>http://sketchup.google.com/3dwarehouse/download?mid=960101f3f6728267f5982f1c497c18e7&amp;rtyp=lt&amp;ctyp=other&amp;ts=1298122425000&amp;ct=gd</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Frank3D (http://sketchup.google.com/3dwarehouse/search?uq=1255526957891126324919350&amp;scoring=m&amp;ct=gd)</Name>
+     </Author>
+     <Licensing>Google 3D Warehouse License</Licensing>
+    </MediaCreationInformation>
+    <Size>1079044</Size>
+   </MultimediaContent>
+   <MultimediaContent type="ImageType">
+    <FreeText>Ente</FreeText>
+    <MediaName>Ente</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Ente</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm7.staticflickr.com/6214/6376033207_7e697515a3_b.jpg</MediaUri>
+     <MediaPreview>http://farm7.staticflickr.com/6214/6376033207_7e697515a3_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Thomas Riecken</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>419636</Size>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Duck_28.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Duck</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Ente</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Ente</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000126.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="Object3D">
+   <MediaName>Ente</MediaName>
+   <Shape3DDescription matching="MultiViewL2" type="CMVD">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="212" descriptorSize="3816" totalNumOfViews="18">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/3D/80000000-8000-0000-F000-000080000126.zip.txt</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </Shape3DDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

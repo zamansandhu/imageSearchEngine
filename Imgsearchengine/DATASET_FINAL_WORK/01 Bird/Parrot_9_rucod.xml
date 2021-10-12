@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Parrot</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-00008000019E</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Not now</FreeText>
+    <MediaName>White Parrots</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">White</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Parrots</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm7.staticflickr.com/6190/6056055454_e0dab48b86_b.jpg</MediaUri>
+     <MediaPreview>http://farm7.staticflickr.com/6190/6056055454_e0dab48b86_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>NZ#1</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>516096</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>When done eating, the bird will wipe his beak in a paper towel, and will give you his foot to clean off. Otherwise, they fly over to a white sofa with a food covered foot and wipe their food covered beak on it.</FreeText>
+    <MediaName>So Cute! Pet Parrot - Cockatoo using a napkin</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Cockatoo</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Parrot</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Funny</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Etiquette</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Manners</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=CVPode64USA</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/CVPode64USA/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>parrotscience</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>32</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Parrot_9.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">White</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Parrots</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Cockatoo</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Parrot</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Funny</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Etiquette</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Manners</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>White Parrots</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-00008000019E.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

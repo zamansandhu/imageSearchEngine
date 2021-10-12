@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Duck</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000115</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Wild duck in the Svartån river in Småland .Svartån (English: black stream) is a name given to a considerable number of Swedish rivers and streams.This photo was taken on July 5, 2011 in Tranas, Jonkoping, SE, using a Nikon D3100. </FreeText>
+    <MediaName>wild duck</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Birdwatcher</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Jonkoping</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nikond3100</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Småland</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Stream</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Svartån</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Sverige</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm7.staticflickr.com/6134/5916756816_4be1332cf4_b.jpg</MediaUri>
+     <MediaPreview>http://farm7.staticflickr.com/6134/5916756816_4be1332cf4_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Roar Eriksen</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>417792</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>I have known these wild ducks for three weeks. Two weeks ago they were just little ducklings. Birds grow at an amazing rate but these ducks never would eat any of the sausage I would try to feed them. . But today they are there waiting for us upon arriving and take full advantage of my Miss Vickies Potato Chips and then completely devour the Chocolate Blueberry Danish.The mother Duck never took part of this feeding knowing that her teenaged ducks were absolutely into fast food instead of weeds, roots and algae.</FreeText>
+    <MediaName>Wild Ducks Snackin' at the Beach</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Wild</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Ducks</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Feeding</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=DVlmP060t8s</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/DVlmP060t8s/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>AlgisKemezys</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>179</MediaTime>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>A flock of black ducks on a pond rec by zoom H2</FreeText>
+    <MediaName>01033 black ducks in city park.wav</MediaName>
+    <FileFormat>audio/x-wav</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Wild</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Pond</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Park</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Ducks</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Duck</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/71857/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/71/71857_321967_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/01033 black ducks in city park.wav_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Robinhood76</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>2741994</Size>
+    <MediaTime>16</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Duck_12.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Birdwatcher</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Jonkoping</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nikond3100</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Småland</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Stream</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Svartån</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Sverige</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Wild</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Ducks</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Feeding</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Pond</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Park</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Duck</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>wild duck</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000115.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>01033 black ducks in city park.wav</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-000080000115.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

@@ -1,0 +1,1 @@
+<RWML><ContextSlice><DateTime><Date>2011-04-22T17:00:42Z</Date></DateTime><Location type="gml"><gml:CircleByCenterPoint numArc="1"><gml:pos>25.819671 -80.289459</gml:pos><gml:radius uom="M">10</gml:radius></gml:CircleByCenterPoint></Location><Direction><Heading>0</Heading><Tilt>0</Tilt><Roll>0</Roll></Direction></ContextSlice></RWML>

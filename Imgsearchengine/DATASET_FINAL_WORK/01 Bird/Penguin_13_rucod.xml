@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Penguin</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-0000800001A3</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Magellanic Penguins on Tierra del Fuego.</FreeText>
+    <MediaName>Magellanic Penguins</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Tierradelfuego</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Argentina</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Finisterre</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Beaglechannel</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Magellanicpenguin</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm8.staticflickr.com/7141/6558110273_299fc0afeb_b.jpg</MediaUri>
+     <MediaPreview>http://farm8.staticflickr.com/7141/6558110273_299fc0afeb_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Nils Mattisson</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>419636</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>Thursday - December 13, 2007 we were on an Overseas Adventure Travel trip to Chile. After checking in and dropping off our luggage at the airport in Punta Arenas, we drove 30 minutes to the privately owned Magellanic Penguin Colony at Seno Otway (Otway Sound) on the Strait of Magellan. On the way our Tour Director María Elena gave us information about the Magellanic Penguin (sometimes called the Jackass Penguin) we would see and also the other 18 species of penguins found in the Southern Hemisphere. Amazingly, penguin fossils of over 40 million years have been found! We were able to wander the paths through this Penguin Colony, photograph these beautiful black and white creatures, and enjoy a beautiful sunny afternoon before returning to the airport of Punta Arenas, Chile for our flight to Santiago.</FreeText>
+    <MediaName>Magellanic Penguin - Punta Arenas, Chile</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Travel</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Garciatrips</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">OAT</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Overseas Adventure Travel</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Magellanic Penguin</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Punta Arenas</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Chile</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=FAIhg_jv0Us</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/FAIhg_jv0Us/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>vicbrasilnut</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>82</MediaTime>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>Two Magellanic Penguins braying, with water in the background. Recorded with an Edirol R-09HR.</FreeText>
+    <MediaName>magellanic_penguin.wav</MediaName>
+    <FileFormat>audio/x-wav</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Zoo</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Tropical</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Exotic</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Aviary</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/111079/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/111/111079_1578278_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/magellanic_penguin.wav_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>soundbytez</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>1228786</Size>
+    <MediaTime>7</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Penguin_13.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Tierradelfuego</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Argentina</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Finisterre</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Beaglechannel</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Magellanicpenguin</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Travel</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Garciatrips</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">OAT</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Overseas Adventure Travel</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Magellanic Penguin</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Punta Arenas</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Chile</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Zoo</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Tropical</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Exotic</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Aviary</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Magellanic Penguins</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-0000800001A3.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>magellanic_penguin.wav</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-0000800001A3.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

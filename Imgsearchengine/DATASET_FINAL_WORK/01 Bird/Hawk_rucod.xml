@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Hawk</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-00008000016A</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>A cute little hawk that obligingly sat atop a Yield sign long enough for me to get off several shots. It was a cloudy day, and I had my aperature opened almost all the way up so that I could increase my shutter speed for full zoom, handheld, out the wind shots like this one, which means that the larger hawk perched on the power pole in the background is out of focus. This larger hawk screamed at us the entire time I was shooting until the young bird finally took flight, clcosely followed by the larger bird. Photographed in NE Pierce County, NDAnd yes, this one is better viewed large :-)</FreeText>
+    <MediaName>Young Hawk</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Northdakota</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nikond60</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Hawk</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Dof</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Sign</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Piercecounty</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm5.staticflickr.com/4080/4912563705_d9433b5b7c_b.jpg</MediaUri>
+     <MediaPreview>http://farm5.staticflickr.com/4080/4912563705_d9433b5b7c_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Rick Craig</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>503194</Size>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>This is a hawk. "These birds are slender with short broad rounded wings and a long tail which helps them maneuver in flight. They have long legs and long sharp talons used to kill their prey and a sharp hooked bill used in feeding. Females tend to be larger in size than males.They often ambush their prey, capturing it after a short chase. They mainly eat small birds and mammals."Minidisc.</FreeText>
+    <MediaName>hawk.wav</MediaName>
+    <FileFormat>audio/x-wav</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Prey</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Hawk</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/42389/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/42/42389_95609_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/hawk.wav_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>UncleSigmund</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>8930988</Size>
+    <MediaTime>51</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Hawk.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Northdakota</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nikond60</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Hawk</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Dof</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Sign</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Piercecounty</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Prey</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Young Hawk</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-00008000016A.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>hawk.wav</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-00008000016A.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Sparrow</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-0000800001B6</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Sparrow at Lochwinnoch nature reserve</FreeText>
+    <MediaName>Sparrow</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Sparrow</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Lochwinnoch</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Rspb</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Lttf</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Sos</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm5.staticflickr.com/4004/4560903029_0756f398b2_z.jpg</MediaUri>
+     <MediaPreview>http://farm5.staticflickr.com/4004/4560903029_0756f398b2_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Grant Glendinning</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>243840</Size>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>group of sparrows /grupo de gorriones</FreeText>
+    <MediaName>sparrows.in.the.open.mp3</MediaName>
+    <FileFormat>audio/mpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Chirp</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">South-spain</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Andalucia</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/4221/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/4/4221_8043_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/sparrows.in.the.open.mp3_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>dobroide</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>122890</Size>
+    <MediaTime>8</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Sparrow_10.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Sparrow</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Lochwinnoch</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Rspb</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Lttf</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Sos</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Chirp</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">South-spain</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Andalucia</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Sparrow</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-0000800001B6.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>sparrows.in.the.open.mp3</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-0000800001B6.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

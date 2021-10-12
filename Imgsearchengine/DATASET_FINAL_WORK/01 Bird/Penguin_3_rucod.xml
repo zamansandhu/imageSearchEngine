@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Penguin</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-0000800001AE</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="Object3D">
+    <FreeText>a penguin has donkey's ears?it's so strange!</FreeText>
+    <MediaName>strange penguin——donkey penguin</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://sketchup.google.com/3dwarehouse/download?mid=54ebf8a1ac2ea016df547c457ba76d16&amp;rtyp=zip&amp;fn=Untitled108&amp;ctyp=other&amp;ts=1240065194000&amp;ct=gd</MediaUri>
+     <MediaPreview>http://sketchup.google.com/3dwarehouse/download?mid=54ebf8a1ac2ea016df547c457ba76d16&amp;rtyp=lt&amp;ctyp=other&amp;ts=1240065194000&amp;ct=gd</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>刘企 (http://sketchup.google.com/3dwarehouse/search?uq=1158336619643039329851028&amp;scoring=m&amp;ct=gd)</Name>
+     </Author>
+     <Licensing>Google 3D Warehouse License</Licensing>
+    </MediaCreationInformation>
+    <Size>472667</Size>
+   </MultimediaContent>
+   <MultimediaContent type="ImageType">
+    <FreeText>King Penguins (Aptenodytes patagonicus) on South Georgia.</FreeText>
+    <MediaName>King Penguins DSC_0457</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Kingpenguin</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Aptenodytespatagonicus</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Sphenisciformes</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Spheniscidae</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Southgeorgia</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Seabird</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm8.staticflickr.com/7103/7377620856_aa8e4d75b1_k.jpg</MediaUri>
+     <MediaPreview>http://farm8.staticflickr.com/7103/7377620856_f0a0aed1fc_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Mary Bomford</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>1667482</Size>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Penguin_3.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Kingpenguin</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Aptenodytespatagonicus</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Sphenisciformes</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Spheniscidae</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Southgeorgia</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Seabird</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>King Penguins DSC_0457</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-0000800001AE.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="Object3D">
+   <MediaName>strange penguin——donkey penguin</MediaName>
+   <Shape3DDescription matching="MultiViewL2" type="CMVD">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="212" descriptorSize="3816" totalNumOfViews="18">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/3D/80000000-8000-0000-F000-0000800001AE.zip.txt</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </Shape3DDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

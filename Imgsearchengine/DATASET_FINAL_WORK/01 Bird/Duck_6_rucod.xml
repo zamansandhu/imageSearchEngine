@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Duck</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-00008000012C</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Yo ho ho, and a thousand trucksGonna take a bath with a Rubber DuckYo ho ho, and a lots a' luck'Round the world with the Rubber Ducky! C. W. McCall lyrics to 'Round The World With The Rubber Duck'</FreeText>
+    <MediaName>Rubber Ducks</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Utata</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Toys</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">June</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">2006</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Windowsill</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Window</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Duck</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Rubber</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm1.staticflickr.com/72/167192597_4255ea7c7a_b.jpg</MediaUri>
+     <MediaPreview>http://farm1.staticflickr.com/72/167192597_4255ea7c7a_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>-Nat</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>571392</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>Ducks find a new home in a most unusual place.... Shot entirely with Verizon's LG Dare camera-phone, compiled in iPhoto and exported to Quicktime (.3g2 videos don't play in this version, though they work in the DVD).</FreeText>
+    <MediaName>Rubber Rubber Duck Duck In A Pickup Truck Truck</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Comedy</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Rubber</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Duck</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Prank</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Pickup</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Truck</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Water</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=N_0XZXeU0sI</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/N_0XZXeU0sI/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>GizmoCaldwell</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>264</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Duck_6.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">2006</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Utata</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Toys</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">June</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Windowsill</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Window</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Duck</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Rubber</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Comedy</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Prank</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Pickup</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Truck</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Water</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Rubber Ducks</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-00008000012C.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

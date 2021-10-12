@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Penguin</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-0000800001AD</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="Object3D">
+    <FreeText>This model is part of a series of 3d Cartoon Characters that might be a useful contribution to the Warehouse. A finding that deserved some polishing, a better ambience, and further sharing.</FreeText>
+    <MediaName>3d Cartoon Character Penguin-Linux</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://sketchup.google.com/3dwarehouse/download?mid=4a4542fcd8f13fc1c21204f72dc5f023&amp;rtyp=zip&amp;fn=3d+Cartoon+Character+Penguin-Linux&amp;ctyp=other&amp;ts=1261169591000&amp;ct=gd</MediaUri>
+     <MediaPreview>http://sketchup.google.com/3dwarehouse/download?mid=4a4542fcd8f13fc1c21204f72dc5f023&amp;rtyp=lt&amp;ctyp=other&amp;ts=1261169591000&amp;ct=gd</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>ArqDirk (http://sketchup.google.com/3dwarehouse/search?uq=0560429193209006560439902&amp;scoring=m&amp;ct=gd)</Name>
+     </Author>
+     <Licensing>Google 3D Warehouse License</Licensing>
+    </MediaCreationInformation>
+    <Size>1707631</Size>
+   </MultimediaContent>
+   <MultimediaContent type="ImageType">
+    <FreeText>King Penguin (Aptenodytes patagonicus) on South Georgia.</FreeText>
+    <MediaName>King Penguin DSC_0338</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Kingpenguin</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Aptenodytespatagonicus</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Sphenisciformes</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Spheniscidae</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Southgeorgia</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Seabird</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm6.staticflickr.com/5467/7377658406_e7e71c5782_k.jpg</MediaUri>
+     <MediaPreview>http://farm6.staticflickr.com/5467/7377658406_6fde29c4a4_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Mary Bomford</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>1645364</Size>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Penguin_2.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Kingpenguin</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Aptenodytespatagonicus</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Sphenisciformes</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Spheniscidae</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Southgeorgia</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Seabird</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>King Penguin DSC_0338</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-0000800001AD.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="Object3D">
+   <MediaName>3d Cartoon Character Penguin-Linux</MediaName>
+   <Shape3DDescription matching="MultiViewL2" type="CMVD">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="212" descriptorSize="3816" totalNumOfViews="18">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/3D/80000000-8000-0000-F000-0000800001AD.zip.txt</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </Shape3DDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

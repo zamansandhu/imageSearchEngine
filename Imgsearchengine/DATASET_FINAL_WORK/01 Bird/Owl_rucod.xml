@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Owl</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000185</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="Object3D">
+    <FreeText>It was just a piece of one project what one of my friend needed. Of course I made it.</FreeText>
+    <MediaName>Owl</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Owl</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://sketchup.google.com/3dwarehouse/download?mid=560690312d3859ca7571f2410a875d22&amp;rtyp=zip&amp;fn=owl+project7&amp;ctyp=other&amp;ts=1247310491000&amp;ct=gd</MediaUri>
+     <MediaPreview>http://sketchup.google.com/3dwarehouse/download?mid=560690312d3859ca7571f2410a875d22&amp;rtyp=lt&amp;ctyp=other&amp;ts=1247310491000&amp;ct=gd</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Sketchmaster Tóth (http://sketchup.google.com/3dwarehouse/search?uq=0862999309672637217809952&amp;scoring=m&amp;ct=gd)</Name>
+     </Author>
+     <Licensing>Google 3D Warehouse License</Licensing>
+    </MediaCreationInformation>
+    <Size>107835</Size>
+   </MultimediaContent>
+   <MultimediaContent type="ImageType">
+    <FreeText>Owl.</FreeText>
+    <MediaName>Owl.</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Owl</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm3.staticflickr.com/2786/4351042939_7254fa6710_z.jpg?zz=1</MediaUri>
+     <MediaPreview>http://farm3.staticflickr.com/2786/4351042939_7254fa6710_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>itsonlymeagain</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>163968</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>There are few sounds in nature as raucous as the calls of Barred Owls. Listen as The Cornell Lab's Laura Erickson sets the scene. Audio recordings and photographs by Gerrit Vyn. To explore more audio recordings visit the Macaulay Library: macaulaylibrary.org</FreeText>
+    <MediaName>Voices: Barred Owl</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Cornell</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Lab</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Of</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Ornithology</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Watching</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=y5zc-NHIipw</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/y5zc-NHIipw/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>LabofOrnithology</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>123</MediaTime>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>I created this hooting owl sound using reaktor and applied effects in logic. It was used as part of the sound design for a Haunted House.</FreeText>
+    <MediaName>Owl.wav</MediaName>
+    <FileFormat>audio/x-wav</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Synthesised</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Scary</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Reaktor</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Owl</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Hooting</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Haunted-house</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Ghostly</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Effect</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Atmospheric</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Animal</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/20684/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/20/20684_57750_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/Owl.wav_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Johnc</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>291000</Size>
+    <MediaTime>4</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Owl.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Owl</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Cornell</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Lab</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Of</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Ornithology</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Watching</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Synthesised</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Scary</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Reaktor</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Hooting</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Haunted-house</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Ghostly</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Effect</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Atmospheric</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Animal</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Owl.</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000185.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="Object3D">
+   <MediaName>Owl</MediaName>
+   <Shape3DDescription matching="MultiViewL2" type="CMVD">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="212" descriptorSize="3816" totalNumOfViews="18">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/3D/80000000-8000-0000-F000-000080000185.zip.txt</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </Shape3DDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>Owl.wav</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-000080000185.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

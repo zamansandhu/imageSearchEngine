@@ -1,0 +1,270 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Goose</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000148</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Chinese Goose or Swan GooseAssens, Denmark</FreeText>
+    <MediaName>Chinese Goose</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Goose</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Geese</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Gås</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Gæs</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Frombehind</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Chinesegooseswangoose</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Svanegås</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Kinesiskgås</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm3.staticflickr.com/2768/4133372675_b88e0de4fa_b.jpg</MediaUri>
+     <MediaPreview>http://farm3.staticflickr.com/2768/4133372675_b88e0de4fa_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Kirsten Kaae</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>474317</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>Happy Goose loves her chicken feed and swimming pool. 7-12-09 some animal attacked and killed the goose :(</FreeText>
+    <MediaName>RIP Happy Goose</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Education</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Happy</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Goose</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Eating</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Water</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Swimming</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bathing</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=w2Wif16vVg4</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/w2Wif16vVg4/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>captinnintendo</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>345</MediaTime>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>A suburb-story in sound of two goose.Herman, we have to go now. Yes darling but where? Fly to the moon Herman, to the moon! It's spring and I love you, darling. To the moon! And there the go......Recorded in one shot: suburb city-Park Schutskamppark Helftheuvelweg, s-Hertogenbosch, Holland, Europe, April 7, 2011, 8.30 pm With a Zoom H1 recorder. </FreeText>
+    <MediaName>Two goose ready for departure.wav</MediaName>
+    <FileFormat>audio/x-wav</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Field</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Recording</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Naturesounds</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Poetry</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Verse</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Poem</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">City-park</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Environmental-sounds-research</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Park</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">General-noise</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">General</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Spring</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Soundscape</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Noise</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">White</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Naturesound</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nature-sound</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">White-noise</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Going</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Fairytale</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Fable</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Ambiance</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Taking</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Take-off</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Suburban</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Suburb</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Story</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Starting</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Sonography</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Scenery</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Scape</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Sailing</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Residential</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Residance</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Off</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Neighbourhood</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Neighborhood</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Leaving</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Landscape</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Greater</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Going-away</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Atmo</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Ambient</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Ambience</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Departure</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Departing</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Countryside</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Country</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">City</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Canadensis</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Canada</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Branta</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Background-sound</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Background</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Away</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Atmosphere</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Atmos</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Goose</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Gossling</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Myth</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/117822/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/117/117822_1648170_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/Two goose ready for departure.wav_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>klankbeeld</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>21411856</Size>
+    <MediaTime>75</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Goose_11.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Goose</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Geese</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Gås</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Gæs</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Frombehind</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Chinesegooseswangoose</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Svanegås</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Kinesiskgås</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Education</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Happy</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Eating</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Water</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Swimming</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bathing</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Field</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Recording</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Naturesounds</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Poetry</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Verse</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Poem</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">City-park</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Environmental-sounds-research</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Park</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">General-noise</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">General</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Spring</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Soundscape</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Noise</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">White</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Naturesound</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nature-sound</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">White-noise</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Going</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Fairytale</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Fable</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Ambiance</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Taking</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Take-off</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Suburban</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Suburb</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Story</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Starting</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Sonography</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Scenery</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Scape</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Sailing</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Residential</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Residance</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Off</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Neighbourhood</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Neighborhood</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Leaving</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Landscape</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Greater</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Going-away</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Atmo</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Ambient</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Ambience</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Departure</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Departing</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Countryside</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Country</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">City</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Canadensis</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Canada</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Branta</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Background-sound</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Background</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Away</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Atmosphere</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Atmos</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Gossling</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Myth</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Chinese Goose</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000148.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>Two goose ready for departure.wav</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-000080000148.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

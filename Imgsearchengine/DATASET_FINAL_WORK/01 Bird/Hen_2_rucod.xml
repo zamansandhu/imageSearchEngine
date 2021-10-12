@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Hen</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000172</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Hens at my grandparents'.&lt;a href="http://loc.alize.us/#/flickr:3024746666" rel="nofollow">See where this picture was taken.&lt;/a> &lt;a href="http://www.flickr.com/groups/geotagging/discuss/72157594165549916/">[?]&lt;/a></FreeText>
+    <MediaName>Hens</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Dscf717</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Deutschland</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Germany</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Mecklenburgvorpommern</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Pragsdorf</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Home</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Geo:lat=53538207</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Geo:lon=13393793</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm4.staticflickr.com/3181/3024746666_a017cb80a9_b.jpg</MediaUri>
+     <MediaPreview>http://farm4.staticflickr.com/3181/3024746666_a017cb80a9_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Thomas V.</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>471860</Size>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>Just chicken at farm close 2 m rec by Zoom H2</FreeText>
+    <MediaName>01130 chicken hen 2.wav</MediaName>
+    <FileFormat>audio/x-wav</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Clucking</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Cluck</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Hen</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Farmer</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Farm</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Chicken</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Village</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Poultry</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/75726/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/75/75726_321967_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/01130 chicken hen 2.wav_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Robinhood76</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>411330</Size>
+    <MediaTime>3</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Hen_2.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Dscf717</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Deutschland</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Germany</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Mecklenburgvorpommern</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Pragsdorf</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Home</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Geo:lat=53538207</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Geo:lon=13393793</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Clucking</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Cluck</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Hen</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Farmer</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Farm</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Chicken</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Village</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Poultry</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Hens</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000172.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>01130 chicken hen 2.wav</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-000080000172.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

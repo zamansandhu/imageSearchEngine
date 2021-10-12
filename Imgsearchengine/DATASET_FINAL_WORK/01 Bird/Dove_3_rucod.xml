@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Dove</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000111</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Maharajah Jungle TrekCaloenas nicobaricaThe Nicobar pigeon is one of the most beautiful of the many species of pigeons or doves. Like all pigeons, the Nicobar pigeon is rather thick-set with a relatively small head, but is heavier than most pigeons the same size. The general coloration is dark green iridescent, with a short white tail. Display plumage of the neck is green with coppery and greenish-blue overtones.Feathers of the mantle and wing coverts are pointed. The bill is black, the legs are red, and the iris is white in adult females, but brown in sub-adults and males. DISTRIBUTION:This species is found in south-east Asia, particularly on the Nicobar islands to New Guinea, and as far north as the Philippines.BEHAVIOR:The Nicobar pigeon feeds on the forest floor, and spends a great deal of time on the ground. They move about in flocks during the day and roost together at night. Their vocalization is a cooing sound.Like all pigeons and doves, these birds do not sip when drinking, but instead they immerse their bill, sucking up water.DIET:The Nicobar pigeon feeds on seeds, berries, and insects.REPRODUCTION and GROWTH:All pigeons in general follow similar courtship patterns. The males coo loudly, displaying before the females. At a more advanced stage of courtship the movements seem more like a bowing to the female. These displays sometimes go on for days followed by nest building. The male chooses the nesting site and gathers twigs, roots and other materials, which are set in place by the female. These birds are monogamous and tend to mate for life. There are usually two eggs in each clutch, elliptical in shape and white, with a faint bluish tinge. Male and female share incubating duties for about 2 weeks after which the chicks are hatched nearly naked. These birds are altricial. They are first fed &amp;quot;crop milk&amp;quot; which is a rich fluid the female parent regurgitates for the chicks to take from her bill. The chicks switch gradually to a solid diet of seed and fruit. The parents keep the chicks as warm as possible, until, after about 10 days, their feathers begin to grow in. In less than a month, the young pigeons can fend for themselves although they stay on in the nest a little longer.Maharajah Jungle TrekWalt Disney World-Animal Kingdom-Orlando Fl.</FreeText>
+    <MediaName>Nicobar Pigeon</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Disney</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Zoos</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Pigeons</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm3.staticflickr.com/2526/3826325344_d9eea066ca_b.jpg</MediaUri>
+     <MediaPreview>http://farm3.staticflickr.com/2526/3826325344_d9eea066ca_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Scott Hanko</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>419636</Size>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Dove_3.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Disney</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Zoos</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Pigeons</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Nicobar Pigeon</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000111.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Bird</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000104</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>This gull seemed fascinated by my camera. I cocked my head to one side and so did the gull. We had this strange connection. I took the shot.The previous image in my photo stream shows the same gull a minute later.&lt;a href="http://bighugelabs.com/flickr/onblack.php?id=1937574110&amp;amp;size=large"> Best Viewed On Black&lt;/a>Copyright ©2007 indigo2 photography and Paul Indigo. All rights reserved.&lt;a href="http://www.indigo2photography.co.uk">www.indigo2photography.co.uk&lt;/a></FreeText>
+    <MediaName>Curious gull</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Gulls</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Gull</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Paulindigo</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm3.staticflickr.com/2341/1937574110_f50d216e76_z.jpg?zz=1</MediaUri>
+     <MediaPreview>http://farm3.staticflickr.com/2341/1937574110_f50d216e76_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Paul Indigo</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>163968</Size>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Bird_14.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Gulls</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Gull</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Paulindigo</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Curious gull</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000104.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

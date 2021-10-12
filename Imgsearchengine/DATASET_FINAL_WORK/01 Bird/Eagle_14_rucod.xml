@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Eagle</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000135</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Not very often you see a Bald Eagle flying in Britain, Well except everyday at the  Hawk Conservancy, Andover, Hampshire, SP11 8DY,,</FreeText>
+    <MediaName>Bald Eagle</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Baldeagle</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Eagle</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bald</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">American</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Sanctuary</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Hawk</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Aldi</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Lidl</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm3.staticflickr.com/2087/5796846060_237d16fc52_b.jpg</MediaUri>
+     <MediaPreview>http://farm3.staticflickr.com/2087/5796846060_237d16fc52_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Paul Knapper</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>464487</Size>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>A bald eagle cry I recorded, edited in Audacity to make it louder and more pitched. Great for films!</FreeText>
+    <MediaName>Cinematic Eagle Cry</MediaName>
+    <FileFormat>audio/x-wav</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Out</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Film</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Type</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Hawk</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Pidgeon</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Woods</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Field</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Recording</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Cinematic</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Cry</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Awesome</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Song</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Computer</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Eagle</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/140847/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/140/140847_2306565_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/Cinematic Eagle Cry_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>thecluegeek</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>54136</Size>
+    <MediaTime>3</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Eagle_14.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Baldeagle</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Eagle</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bald</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">American</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Sanctuary</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Hawk</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Aldi</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Lidl</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Out</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Film</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Type</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Pidgeon</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Woods</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Field</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Recording</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Cinematic</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Cry</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Awesome</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Song</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Computer</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Bald Eagle</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000135.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>Cinematic Eagle Cry</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-000080000135.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

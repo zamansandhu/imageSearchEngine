@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Duck</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000130</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="Object3D">
+    <FreeText>Yellow rubber duck</FreeText>
+    <MediaName>Rubber Duck</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Duck</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://sketchup.google.com/3dwarehouse/download?mid=c782589c4934d2a2cd63c2337094eba6&amp;rtyp=zip&amp;fn=rubber+duck&amp;ctyp=other&amp;ts=1327951939000&amp;ct=gd</MediaUri>
+     <MediaPreview>http://sketchup.google.com/3dwarehouse/download?mid=c782589c4934d2a2cd63c2337094eba6&amp;rtyp=lt&amp;ctyp=other&amp;ts=1327951939000&amp;ct=gd</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>siwel (http://sketchup.google.com/3dwarehouse/search?uq=1017789822560764427936852&amp;scoring=m&amp;ct=gd)</Name>
+     </Author>
+     <Licensing>Google 3D Warehouse License</Licensing>
+    </MediaCreationInformation>
+    <Size>2561394</Size>
+   </MultimediaContent>
+   <MultimediaContent type="ImageType">
+    <FreeText>Just a rubber duck</FreeText>
+    <MediaName>Rubber Duck</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">20d</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Canon</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Canon20d</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Rubberduck</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Toys</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Canonefs1755f28is</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm3.staticflickr.com/2345/2283731281_e166725707_z.jpg?zz=1</MediaUri>
+     <MediaPreview>http://farm3.staticflickr.com/2345/2283731281_e166725707_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Chris</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>196992</Size>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>call of a Mallard. The bird was flying in circles so you start hearing it very close, then moving further and around</FreeText>
+    <MediaName>20070303.duck.wav</MediaName>
+    <FileFormat>audio/x-wav</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Mallard</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Environmental-sounds-research</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Winter</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Marshes</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Duck</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird-calls</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">South-spain</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/31835/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/31/31835_8043_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/20070303.duck.wav_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>dobroide</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>4691072</Size>
+    <MediaTime>27</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Duck.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Duck</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">20d</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Canon</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Canon20d</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Rubberduck</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Toys</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Canonefs1755f28is</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Mallard</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Environmental-sounds-research</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Winter</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Marshes</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird-calls</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">South-spain</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Rubber Duck</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000130.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="Object3D">
+   <MediaName>Rubber Duck</MediaName>
+   <Shape3DDescription matching="MultiViewL2" type="CMVD">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="212" descriptorSize="3816" totalNumOfViews="18">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/3D/80000000-8000-0000-F000-000080000130.zip.txt</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </Shape3DDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>20070303.duck.wav</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-000080000130.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

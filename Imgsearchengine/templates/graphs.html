@@ -1,0 +1,54 @@
+{% extends "bas4.html" %}
+<title>{% block head_title %} Results Graphs {% endblock head_title %} </title>
+{% block content %}
+<div class="row">
+<div style="margin-top:20px" class="col-lg-6">
+{% if countobject %}
+    <h3> Graph before applying Zahn's Clustering Algorithm </h3>
+    <p> Standard Deviation of Jaccard Similarities = {{ stdofjs }} </p>
+    <img src="/media/beforezahn.jpg" width="550px" height="550px">
+    <p> Mean of Jaccard Similarities = {{ meanofjs }} </p>
+</div>
+<div style="margin-top:20px" class="col-lg-6">
+    <h3> Graph After applying Standard Deviation and Jacard Similarity Algorithm </h3>
+    <img src="/media/afterstdjs.jpg" width="550px" height="550px">
+</div>
+    </div>
+<div class="row">
+<div style="margin-top:20px" class="col-lg-6">
+    <h3> Graph by Apllying Euclidean Distance Formula</h3>
+    <img src="/media/euclidean.jpg" width="550px" height="550px">
+</div>
+<div style="margin-top:20px" class="col-lg-6">
+    <h3> Graph After applying Zahn's Clustering Algorithm </h3>
+    <img src="/media/afterzahn.jpg" width="550px" height="550px">
+    </div>
+</div>
+    <div class="row">
+<div style="margin-top:20px" class="col-lg-6">
+    <h3> Jaccard similarity  of each node with one another </h3>
+    {% for nodes, jaccsimi in jsdict.items %}
+    <p><b>{{nodes}} </b>: {{ jaccsimi }}</p>
+    {% endfor %}
+</div>
+
+        <h3> Euclidean Distance of each picture with one another </h3>
+    <div style="margin-top:20px" class="col-lg-4">
+    {% for nodes, jaccsimi in jsdict.items %}
+    <p><b>{{nodes}} </b>: {{ jaccsimi }} Euclidean Distances {{ eu_dist}}</p>
+    {% endfor %}
+    </div>
+    <div style="margin-top:20px" class="col-lg-2">
+        {% for  ef in list1 %}
+        <p> {{ ef }}</p>
+        {% endfor %}
+    </div>
+    </div>
+    </div>
+
+    </div>
+{% else %}
+     <h3> We couldn't found something related to your search</h3>
+{% endif %}
+
+{% endblock content %}

@@ -1,0 +1,2 @@
+https://django-import-data.readthedocs.io/en/latest/
+pip install libxml2-dev libxslt-dev python-dev

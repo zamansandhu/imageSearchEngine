@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Owl</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000180</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Lechuza comun (Tyto Alba). Rapaz nocturna de inconfundible aspecto. Presenta una cara acorazonada de color blanco, sobre la que destacan dos penetrantes ojos oscuros. El pico, de tono claro, que se halla inmerso entre el abundante y finísimo pulmón de los discos faciales, es muy ancho y se prolonga hasta detrás de los ojos, lo que le permite tragar sus presas enteras. Estos discos, delimitados por una línea de plumas parduzcas poseen la vital función de la óptima conducción de los sonidos a los discos auditivos del ave, que se encuentran inmediatamente después de los ojos. Sabiendo que las lechuzas utilizan el oído como principal sentido para la localización de sus presas, es comprensible el significado evolutivo del aspecto de su rostro. Estrigiforme de tamaño medio, algo mayor que una paloma, puede llegar a tener una envergadura de 90 centímetros. De extraordinaria belleza. Dotada de una cola muy corta, durante el vuelo su fantasmagórica figura se reconoce por el redondeado contorno de la punta de sus alas. Uno de sus rasgos característicos es lo dorado de su dorso, interrumpido por múltiples manchas grisáceas, que en ocasiones componen el color de la gran mayoría del plumaje. El vientre de estos pájaros es de un color claro, en ocasiones de un blanco puro, salpicado por puntos pardos.Sus garras se encuentran parcialmente recubiertas de plumas Tienen los dedos cubiertos por unas cerdas de tono blanquecino, color que habitualmente no conservan dando un aspecto sucio. Poseedora al igual que casi todas las aves de presa de unas extremidades inferiores con afiladas uñas de color negro. A excepción del pico, ojos y garras, está recubierta de un finísimo plumaje, que la dota de un vuelo absolutamente silencioso. Las plumas rémiges de sus alas, al igual que del resto de las rapaces nocturnas, tienen el borde externo ligeramente desflecado, lo que evita que el roce con el aire delate su presencia en el vuelo. Nikon D90 + Nikon 55-200mm f4-5.6G VR -ED</FreeText>
+    <MediaName>Tyto Alba</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Lechuzacomun</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Tytoalba</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Pedrogarcia</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Pedronikon</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nikond90</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Flickr</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">2011</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Valladolid</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm7.staticflickr.com/6171/6195718999_c9068fa4b9_b.jpg</MediaUri>
+     <MediaPreview>http://farm7.staticflickr.com/6171/6195718999_c9068fa4b9_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Pedro Garcia</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>433152</Size>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Owl_5.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">2011</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Lechuzacomun</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Tytoalba</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Pedrogarcia</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Pedronikon</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nikond90</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Flickr</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Valladolid</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Tyto Alba</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000180.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

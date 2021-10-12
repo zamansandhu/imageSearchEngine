@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Sparrow</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-0000800001C2</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="Object3D">
+    <FreeText>A house sparrow made by 3dsigner and helped by Dilopho DD</FreeText>
+    <MediaName>House Sparrow (Passer domesticus)</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Sparrow</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://sketchup.google.com/3dwarehouse/download?mid=c25d109abb2a71bc2182c0b366539b70&amp;rtyp=zip&amp;fn=mus&amp;ctyp=other&amp;ts=1202488106000&amp;ct=gd</MediaUri>
+     <MediaPreview>http://sketchup.google.com/3dwarehouse/download?mid=c25d109abb2a71bc2182c0b366539b70&amp;rtyp=lt&amp;ctyp=other&amp;ts=1202488106000&amp;ct=gd</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>3Dsigner (http://sketchup.google.com/3dwarehouse/search?uq=1649754493858654700117340&amp;scoring=m&amp;ct=gd)</Name>
+     </Author>
+     <Licensing>Google 3D Warehouse License</Licensing>
+    </MediaCreationInformation>
+    <Size>308373</Size>
+   </MultimediaContent>
+   <MultimediaContent type="ImageType">
+    <FreeText>This is a sparrow</FreeText>
+    <MediaName>sparrow</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Sparrow</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm3.staticflickr.com/2481/3756753201_1d0c867219_b.jpg</MediaUri>
+     <MediaPreview>http://farm3.staticflickr.com/2481/3756753201_1d0c867219_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Abhilash Kumar</Name>
+     </Author>
+     <Licensing>Attribution-NonCommercial-ShareAlike License</Licensing>
+    </MediaCreationInformation>
+    <Size>421479</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>This clip is for the part of our audiance that can't wait for the action so we did a little compilation of sparrows taking flight. Wow they are fast... You know the drill SHARE, COMMENT, RATE AND SUBSCRIBE</FreeText>
+    <MediaName>ADD birds, sparrows</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Tech</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Ultraslo</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Slow</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Motion</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Phantom</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nac</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Photron</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=jm0CuJGyVlA</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/jm0CuJGyVlA/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>ultraslo</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>61</MediaTime>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>a single sparrow inside a room, with birds outside in the background /gorrion solitario en el interior de una casa, se oyen otros pajaros fuera</FreeText>
+    <MediaName>sparrow.astray.inside.house.mp3</MediaName>
+    <FileFormat>audio/mpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">South-spain</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Andalucia</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/4220/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/4/4220_8043_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/sparrow.astray.inside.house.mp3_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>dobroide</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>159754</Size>
+    <MediaTime>10</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Sparrow.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Sparrow</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Tech</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Ultraslo</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Slow</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Motion</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Phantom</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nac</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Photron</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">South-spain</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Andalucia</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>sparrow</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-0000800001C2.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="Object3D">
+   <MediaName>House Sparrow (Passer domesticus)</MediaName>
+   <Shape3DDescription matching="MultiViewL2" type="CMVD">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="212" descriptorSize="3816" totalNumOfViews="18">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/3D/80000000-8000-0000-F000-0000800001C2.zip.txt</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </Shape3DDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>sparrow.astray.inside.house.mp3</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-0000800001C2.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

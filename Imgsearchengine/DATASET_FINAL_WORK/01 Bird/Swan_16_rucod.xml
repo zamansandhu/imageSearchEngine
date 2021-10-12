@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Swan</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-0000800001C9</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Black SwanMiami, FL</FreeText>
+    <MediaName>Black Swan</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Black</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Swan</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Blackswan</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Cygnusatratus</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm1.staticflickr.com/45/152349654_11734a4e67_b.jpg</MediaUri>
+     <MediaPreview>http://farm1.staticflickr.com/45/152349654_11734a4e67_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Jorell Hernandez</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>471860</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>Black swans in Perth Western Australia. This video was taken taken with the Samsung Galaxy S2. The video camera in this "phone" is amazing - if only I could hold it steady when being chased by agro wildlife. I think the photo and video quality on this device is good enough reason to buy it. The only gripe is that when in 1920x1080 video mode the frame is cropped or zoomed in by about 50% as compared to still photo mode (and other video modes), so the field of view isn't wide enough indoors. Galaxy S2 highlights for me: Great HD video and photos from the rear camera 2.4gHz and 5gHz Wifi supported Good audio recording quality (compared to my Nexus one which was terrible) Great screen and snappy responsive performance Its so good I managed to convince my wife to dump her iphone for one! Integrates well with new Samsung TV's - Stream Hi-def video and control the TV from the phone over wi-fi - no need to copy the videos off the phone first and no HDMI cable required! Gripes: The headphones supplied with the phone are very average (tinny sounding with poor bass, one button on the cable) - why supply junk headphones with a device like this? My old iphone and nexus one had much better sound from their headphones. Extra software is required to get rid of annoying notification beeps in the middle of the night! Samsung if your listening - we don't need a loud beep at 2am to tell us the battery is charged! Next update - add a setting to disable this please. I shouldn't have to &lt;b>...&lt;/b></FreeText>
+    <MediaName>Samsung Galaxy S2 High Def 1080p Black Swans</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Tech</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Samsung</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Galaxy</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">S2</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">SII</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Android</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Phone</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=wWG_sCe3LEo</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/wWG_sCe3LEo/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>plasticbrain777</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>79</MediaTime>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>Two calls from a Black Swan. Recorded with an Edirol R-09HR.</FreeText>
+    <MediaName>black_swan.wav</MediaName>
+    <FileFormat>audio/x-wav</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Zoo</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Waterfowl</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Waterbirds</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Tropical</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Swan</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Exotic</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Aviary</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/111074/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/111/111074_1578278_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/black_swan.wav_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>soundbytez</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>1078845</Size>
+    <MediaTime>7</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Swan_16.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Black</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Swan</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Blackswan</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Cygnusatratus</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Tech</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Samsung</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Galaxy</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">S2</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">SII</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Android</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Phone</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Zoo</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Waterfowl</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Waterbirds</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Tropical</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Exotic</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Aviary</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Black Swan</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-0000800001C9.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>black_swan.wav</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-0000800001C9.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

@@ -1,0 +1,127 @@
+{% extends "bas4.html" %} {% load static from staticfiles %}
+<link rel="stylesheet" href="{% static '/css/stylling.css' %}"> {% block content %}
+<style>
+    div#a {
+        position: relative;
+        display: inline-block;
+        border-bottom: 1px dotted black;
+    }
+    
+    div#a div#b {
+        visibility: hidden;
+        width: 140px;
+        background-color: #786D5F;
+        color: #fff;
+        text-align: center;
+        border-radius: 6px;
+        padding: 5px 0;
+        /* Position the tooltip */
+        position: absolute;
+        z-index: 1;
+    }
+    
+    div#a:hover div#b {
+        visibility: visible;
+    }
+</style>
+<div class="header container-fluid" id="two">
+    <h1 style="text-align:center; margin-top:20px;"> Image Detail Page </h1>
+</div>
+<div class="row">
+    <div class="col-lg-6">
+        <div class="bg img-responsive" style="height:700px;background-size:cover!important;background:url( '{{imageUrl}}'); cursor: pointer;">
+        </div>
+    </div>
+    <div class="col-lg-6">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Tags</th>
+                    <th>URL</th>
+                </tr>
+                <tbody>
+                    <tr>
+                        <td>{{name}}</td>
+                        <td>{{freeText}}</td>
+                        <td>{{tags}}</td>
+                        <td style="    word-break: break-all;">{{imageUrl}}</td>
+                    </tr>
+                </tbody>
+            </thead>
+        </table>
+    </div>
+</div>
+<div class="row">
+    <h2>Recommended Images</h2>
+    {% if neighbors %}
+    <ul>
+        {% for obj in neighbors %}
+        <li id="{{obj.name}}" class="query-image aaaaa" free-text="{{obj.freeText}}" media-url="{{obj.imageUrl}}" tags="{{obj.tags}}" name="{{obj.name}}" neighbors="{{neighbors}}" style="background:url( '{{obj.imageUrl}}'); cursor: pointer;">
+
+        </li>
+        {% endfor %}
+    </ul>
+    <div class="modal" id="_modal" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+
+                <div class="modal-body" id="chacha">
+                    <div class="row">
+                        <div class="col-lg-12" id="img">
+                            <div class="bg img-responsive" style="height:700px;background-size:cover!important;background:url( '{{imageUrl}}'); cursor: pointer;">
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Description</th>
+                                        <th>Tags</th>
+                                        <th>URL</th>
+                                    </tr>
+                                    <tbody>
+                                        <tr>
+                                            <td style="word-break: break-all;" id="name"></td>
+                                            <td style="word-break: break-all;" id="freeText"></td>
+                                            <td style="word-break: break-all;" id="tags"></td>
+                                            <td style="word-break: break-all;" id="url"></td>
+                                        </tr>
+                                    </tbody>
+                                </thead>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    {% else %}
+    <h3>No recommendations were found</h3>
+    {% endif %}
+    <script>
+        $(function() {
+            $('.aaaaa').on('click', function() {
+                const freeText = $(this).attr('free-text');
+                const imageUrl = $(this).attr('media-url');
+                const tags = $(this).attr('tags');
+                const name = $(this).attr('name');
+                $('#chacha #img').html(
+                    `<div class="bg img-responsive" style="height:700px;background-size:cover!important;background:url('${imageUrl}'); cursor: pointer;">
+                            </div>`
+                );
+                $('#chacha #name').text(name);
+                $('#chacha #freeText').text(freeText);
+                $('#chacha #tags').text(tags);
+                $('#chacha #url').text(imageUrl);
+                $('#_modal').modal({
+                    show: true
+                })
+            })
+        })
+    </script>
+</div>
+{% endblock %}

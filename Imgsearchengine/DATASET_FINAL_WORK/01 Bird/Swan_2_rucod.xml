@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Swan</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-0000800001D1</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="Object3D">
+    <FreeText>temp</FreeText>
+    <MediaName>Swan</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Swan</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://sketchup.google.com/3dwarehouse/download?mid=5d405eaefde1e364f68c93526867153e&amp;rtyp=zip&amp;fn=Swan&amp;ctyp=other&amp;ts=1243000342000&amp;ct=gd</MediaUri>
+     <MediaPreview>http://sketchup.google.com/3dwarehouse/download?mid=5d405eaefde1e364f68c93526867153e&amp;rtyp=lt&amp;ctyp=other&amp;ts=1243000342000&amp;ct=gd</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Joe (http://sketchup.google.com/3dwarehouse/search?uq=0804546219729252272141066&amp;scoring=m&amp;ct=gd)</Name>
+     </Author>
+     <Licensing>Google 3D Warehouse License</Licensing>
+    </MediaCreationInformation>
+    <Size>531913</Size>
+   </MultimediaContent>
+   <MultimediaContent type="ImageType">
+    <FreeText>Beautiful Swan flying at low level on a lake.</FreeText>
+    <MediaName>Swan Flying</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Swan</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Wildlife</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Flying</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Swanflying</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Sussex</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Canon</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">60d</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm8.staticflickr.com/7280/6996356901_a867d8abe6_k.jpg</MediaUri>
+     <MediaPreview>http://farm8.staticflickr.com/7280/6996356901_5c92077629_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>William Evenden</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>1677312</Size>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>A whooper swan (Cygnus Cygnus) recorded autumn 2008 at Ojajärvi lake (Alajärvi, Finland) near midnight. It was dark, I did not actually see the swan, but it was right in front of me approximately 20-30 meters away. In the recording it is flying some 30-40 meters aside and then landing again on the water (you can hear a small "swoosh" in the end, just before the final notes).There was no wind, so there is a nice echo. No extra echo added, there is only some eq, compression and noise reduction to make it as clear as possible and give you a glue of what a swan on a calm lake sounds like. (One can never quite catch it, you know.)</FreeText>
+    <MediaName>Swan at lake late at night.wav</MediaName>
+    <FileFormat>audio/x-wav</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Swan</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Lake</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Birdsong</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/73618/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/73/73618_157342_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/Swan at lake late at night.wav_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>jus</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>11134536</Size>
+    <MediaTime>43</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Swan_2.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Swan</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Wildlife</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Flying</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Swanflying</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Sussex</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Canon</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">60d</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Lake</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Birdsong</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Swan Flying</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-0000800001D1.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="Object3D">
+   <MediaName>Swan</MediaName>
+   <Shape3DDescription matching="MultiViewL2" type="CMVD">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="212" descriptorSize="3816" totalNumOfViews="18">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/3D/80000000-8000-0000-F000-0000800001D1.zip.txt</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </Shape3DDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>Swan at lake late at night.wav</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-0000800001D1.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

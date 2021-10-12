@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Owl</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-00008000017F</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Barn Owl&lt;a href="http://www.wildwingsinc.org/" rel="nofollow">www.wildwingsinc.org/&lt;/a></FreeText>
+    <MediaName>Barn Owl - Tyto alba</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Mendonponds</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">2007</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Wildwings</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Barnowl</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Blog</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Tytonidae</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Strigiformes</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Tytoalba</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm1.staticflickr.com/146/401056683_e21744a43b_z.jpg?zz=1</MediaUri>
+     <MediaPreview>http://farm1.staticflickr.com/146/401056683_e21744a43b_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>blmiers2</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>195840</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>Alliberament d'una òliba marcada amb remitent català.</FreeText>
+    <MediaName>Tyto alba</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Tech</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">SCA</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Anellament</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Tyto</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Alba</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Òliba</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=Jt24GhpA2iY</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/Jt24GhpA2iY/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>RingsCat</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>22</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Owl_4.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Mendonponds</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Wildwings</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Barnowl</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Blog</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Tytonidae</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Strigiformes</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Tytoalba</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Tech</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">SCA</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Anellament</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Tyto</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Alba</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Òliba</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Barn Owl - Tyto alba</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-00008000017F.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

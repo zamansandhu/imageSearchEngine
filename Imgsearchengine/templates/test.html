@@ -1,0 +1,33 @@
+{% load static from staticfiles %}
+<html>
+<head>
+	<link rel="stylesheet" href="{% static '/css/misc.css' %}">
+	<link rel="stylesheet" href="{% static '/css/blue-scheme.css' %}">
+	<link rel="stylesheet" href="{% static '/css/stylling.css' %}">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.input{
+width:500px;
+font-size:18pt;
+border-radius: 25px;
+border-color: black;
+height:50px;
+}
+</style>
+</head>
+<body class="bodyclass">
+<h1 style="text-align:center; margin-top:50px; color:white"> Image Search Engine Using Lucene</h1>
+<section class="light-content services">
+		<div class="container" style="text-align:center; margin-top: 175px;">
+			<form action="Results/Search" method="post">
+				{% csrf_token %}
+				{{ form.as_p }}
+				<div class="row" id="one">
+					<h2><span style="text-align:center;color:white;">Search For Your favorite Images Here </span><br><br>
+					<input name="slug" value="{{ slug }}" type="text" class="input" placeholder="Search for Image"></h2>
+				</div>
+			</form>
+		</div>
+</section>
+</body>
+</html>

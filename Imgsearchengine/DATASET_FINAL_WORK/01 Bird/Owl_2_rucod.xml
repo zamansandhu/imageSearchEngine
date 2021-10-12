@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Owl</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-00008000017D</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Here is an image of a Great Horned Owl. I found it on August 2nd or 3rd. The weather and sky weren't very cooperative on those days, it was overcast and rainy and the owl was way too high in the trees.I went back around six or so, this evening and looked for the owl again. I looked all around, walking all over, constantly looking up. The people that were launching their canoes and kayaks were looking at me as if I was some kind of freak. Welcome to my world, I am used to that. I was just about to give up and I saw the owl fly down from the top of the trees and land on a limb that was not too high, I knew that this was my best chance I will have to photograph this bird so I rushed to my truck to get the camera and tripod.I did watch it long enough to remember where it was and kept looking back to make sure it didn't fly away. I arrived back near to the owl and mocking birds and other small birds were dive bombing and attacking the owl trying to drive it away and I was afraid they would succeed. I quickly set up and fired offf a couple shots. I then decided that I should check my exposure settings and I had things set wrong so they came out dark. I tried to quickly change my cameras settings to make for a better image. I also tried to move a little closer but the bird flew away. I managed to get only four images and this is the best one.I hope ya'll like it!Mike&lt;a href="http://bighugelabs.com/onblack.php?id=3816540350&amp;amp;size=large" rel="nofollow">View On Black&lt;/a></FreeText>
+    <MediaName>Great Horned Owl</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Aniamal</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Owl</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Greathornedowl</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Avian</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Outdoors</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Natural</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm3.staticflickr.com/2595/3816540350_5095298cbd_b.jpg</MediaUri>
+     <MediaPreview>http://farm3.staticflickr.com/2595/3816540350_5095298cbd_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Michael Skelton</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>474932</Size>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>A stereo field-recording of two male Tawny owls (Strix aluco) hooting. Edited for noise. Rode NT-4+Dead Kitten &amp;gt; FEL battery pre-amp &amp;gt; Zoom H2 line in.</FreeText>
+    <MediaName>Tawny Owls 2.wav</MediaName>
+    <FileFormat>audio/x-wav</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Tawny-owl</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Strix-aluco</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Hooting</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Hoot</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Owls</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Owl</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Stereo</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Xy</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/64544/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/64/64544_634166_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/Tawny Owls 2.wav_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Benboncan</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>47233932</Size>
+    <MediaTime>268</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Owl_2.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Aniamal</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Owl</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Greathornedowl</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Avian</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Outdoors</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Natural</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Tawny-owl</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Strix-aluco</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Hooting</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Hoot</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Owls</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Stereo</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Xy</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Great Horned Owl</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-00008000017D.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>Tawny Owls 2.wav</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-00008000017D.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

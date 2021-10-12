@@ -1,0 +1,155 @@
+{
+   "Header": {
+      "ContentObjectType": "Multimedia Collection",
+      "ContentObjectName": {
+         "@lang": "en-US",
+         "#text": "Bird"
+      },
+      "ContentObjectID": "80000000-8000-0000-F000-000080000105",
+      "ContentObjectVersion": "1",
+      "ContentObjectCreationInformation": {
+         "Creator": {
+            "Name": "CoFetch Script"
+         },
+         "Contributor": [
+            {
+               "Name": "HS Fulda"
+            },
+            {
+               "Name": "Google"
+            },
+            {
+               "Name": "flickr.com"
+            },
+            {
+               "Name": "wikipedia.org"
+            },
+            {
+               "Name": "freesound.org"
+            },
+            {
+               "Name": "wunderground.com"
+            },
+            {
+               "Name": "youtube.com"
+            }
+         ]
+      },
+      "ContentObjectTypes": {
+         "MultimediaContent": {
+            "FreeText": "This image of a robin red breast eating seeds is available a desktop wallpaper over at our website <a href=\"http://www.digitaldesktopwallpaper.com\">Digital Desktop Wallpaper<\/a>.Go directly to <a href=\"http://www.digitaldesktopwallpaper.com/downloads/ddw/bird-wallpaper-003.htm\">wallpaper<\/a>.If you would like to purchase a high resolution digital version of this image for a specific project please contact us via the <a href=\"http://www.digitaldesktopwallpaper.com\">website<\/a>.",
+            "MediaName": "Bird - Robin Red Breast Eating Bird Seed",
+            "FileFormat": "image/jpeg",
+            "MetaTag": [
+               {
+                  "@name": "UserTag",
+                  "#text": "Digitalphotography"
+               },
+               {
+                  "@name": "UserTag",
+                  "#text": "Freedesktopwallpaper"
+               },
+               {
+                  "@name": "UserTag",
+                  "#text": "Wallpapers"
+               },
+               {
+                  "@name": "UserTag",
+                  "#text": "Pcbackground"
+               },
+               {
+                  "@name": "UserTag",
+                  "#text": "Animal"
+               },
+               {
+                  "@name": "UserTag",
+                  "#text": "Bird"
+               },
+               {
+                  "@name": "UserTag",
+                  "#text": "Robin"
+               },
+               {
+                  "@name": "UserTag",
+                  "#text": "Robinredbreast"
+               }
+            ],
+            "MediaLocator": {
+               "MediaUri": "http://farm4.staticflickr.com/3080/2697549953_a2a1cde3f6.jpg",
+               "MediaPreview": "http://farm4.staticflickr.com/3080/2697549953_a2a1cde3f6_s.jpg"
+            },
+            "MediaCreationInformation": {
+               "Author": {
+                  "Name": "Digital Wallpapers"
+               },
+               "Licensing": "Attribution-NonCommercial-NoDerivs License"
+            },
+            "Size": "112500"
+         },
+         "RealWorldInfo": {
+            "MetadataUri": {
+               "@filetype": "rwml",
+               "#text": "Bird_1.rwml"
+            }
+         }
+      },
+      "Tags": {
+         "MetaTag": [
+            {
+               "@name": "UserTag",
+               "#text": "Digitalphotography"
+            },
+            {
+               "@name": "UserTag",
+               "#text": "Freedesktopwallpaper"
+            },
+            {
+               "@name": "UserTag",
+               "#text": "Wallpapers"
+            },
+            {
+               "@name": "UserTag",
+               "#text": "Pcbackground"
+            },
+            {
+               "@name": "UserTag",
+               "#text": "Animal"
+            },
+            {
+               "@name": "UserTag",
+               "#text": "Bird"
+            },
+            {
+               "@name": "UserTag",
+               "#text": "Robin"
+            },
+            {
+               "@name": "UserTag",
+               "#text": "Robinredbreast"
+            },
+            {
+               "@name": "Category",
+               "#text": "01 Bird"
+            }
+         ]
+      }
+   },
+   "Description": {
+      "L_Descriptor": {
+         "MediaName": "Bird - Robin Red Breast Eating Bird Seed",
+         "ImageDescription": {
+            "@matching": "L2Distance",
+            "LowLevelDescriptor": {
+               "@descriptorType": "xsd:float",
+               "@totalNumOfDescriptors": "8168",
+               "@descriptorSize": "1021",
+               "Store": {
+                  "DescriptorLocator": {
+                     "DescriptorUri": "http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000105.imgdescr"
+                  }
+               }
+            }
+         }
+      }
+   }
+}

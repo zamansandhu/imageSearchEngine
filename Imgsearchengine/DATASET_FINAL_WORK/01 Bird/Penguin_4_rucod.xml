@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Penguin</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-0000800001AF</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="Object3D">
+    <FreeText>A Penguin Named Kowalski From That Show Penguins Of Madagascar/The Movie Madagascar And Madagascar: Escape 2 Africa. He Is A Very Smart Penguin And Has An I.Q. (Intelligence Quotent) Higher Than Any Human Including Albert Einstein And Marilyn Vos Savant. He Has Dark Blue Eyes. He Is the Tallest Of The Penguins. He Tends To Over Analyze Situations. He Is Scared To Go To The Dentist Although Penguins Dont Have Teeth. He Is The Soul Of Skippers (Penguin In Charge) Crazy Schemes. He SomeTimes Dosent Know What He Is Doing. But Most Of The Time He Does. That Is The End Of Kowalski's Description. Acknowledgements: Jotham For The Penguin That I Made A Few Changes With. So Please, Dont Hesitate To Rate This Model, Thank You! And Enjoy And Apprecier! Please Use Constructive Critism If Model Is Bad, Please Do Make An Accurate Kowalski, Thank You!</FreeText>
+    <MediaName>Kowalski The Penguin</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://sketchup.google.com/3dwarehouse/download?mid=d8f82f6bfb2080fef4fb6842b3610149&amp;rtyp=zip&amp;fn=Kowalski+The+Penguin&amp;ctyp=other&amp;ts=1267370188000&amp;ct=gd</MediaUri>
+     <MediaPreview>http://sketchup.google.com/3dwarehouse/download?mid=d8f82f6bfb2080fef4fb6842b3610149&amp;rtyp=lt&amp;ctyp=other&amp;ts=1267370188000&amp;ct=gd</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Air Canada R.C.P. Line Alliance (Temporarily Retired) (http://sketchup.google.com/3dwarehouse/search?uq=1453769901473698842416802&amp;scoring=m&amp;ct=gd)</Name>
+     </Author>
+     <Licensing>Google 3D Warehouse License</Licensing>
+    </MediaCreationInformation>
+    <Size>46916</Size>
+   </MultimediaContent>
+   <MultimediaContent type="ImageType">
+    <FreeText>Ueno, Tokyo, Japan 2009/03/21&lt;a href="http://en.wikipedia.org/wiki/King_Penguin">King Penguin (Wikipedia)&lt;/a></FreeText>
+    <MediaName>King Penguin</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Ueno</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Tokyo</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Japan</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Canon</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Canoneoskissx2</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">450d</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Efs55250mmf456is</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm4.staticflickr.com/3179/3378522703_8138dfb840_b.jpg</MediaUri>
+     <MediaPreview>http://farm4.staticflickr.com/3179/3378522703_8138dfb840_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Guwashi999</Name>
+     </Author>
+     <Licensing>Attribution License</Licensing>
+    </MediaCreationInformation>
+    <Size>629146</Size>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Penguin_4.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Ueno</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Tokyo</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Japan</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Canon</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Canoneoskissx2</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">450d</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Efs55250mmf456is</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>King Penguin</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-0000800001AF.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="Object3D">
+   <MediaName>Kowalski The Penguin</MediaName>
+   <Shape3DDescription matching="MultiViewL2" type="CMVD">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="212" descriptorSize="3816" totalNumOfViews="18">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/3D/80000000-8000-0000-F000-0000800001AF.zip.txt</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </Shape3DDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

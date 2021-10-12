@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Duck</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000116</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Wild duck @ Howtown, Lake District</FreeText>
+    <MediaName>Wild duck @ Howtown</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Wildduck</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Howtown</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Lakedistrict</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm4.staticflickr.com/3170/2634654488_0f54aae7d0_b.jpg</MediaUri>
+     <MediaPreview>http://farm4.staticflickr.com/3170/2634654488_0f54aae7d0_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Tony Stanley</Name>
+     </Author>
+     <Licensing>Attribution-NonCommercial-ShareAlike License</Licensing>
+    </MediaCreationInformation>
+    <Size>419636</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <MediaName>Wild ducks on Lake of Fimon ITALY. Lago di Fimon.</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Wild</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Selvatico</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Divoky</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Duck</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Anatra</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Kachna</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=eMdTD-ABnZs</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/eMdTD-ABnZs/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>68yello</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>98</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Duck_13.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Wildduck</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Howtown</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Lakedistrict</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Wild</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Selvatico</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Divoky</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Duck</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Anatra</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Kachna</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Wild duck @ Howtown</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000116.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

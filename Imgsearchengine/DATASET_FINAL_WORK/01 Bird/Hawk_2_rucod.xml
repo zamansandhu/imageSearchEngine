@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Hawk</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000162</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>New lense and the hawk I have not seen in a couple weeks!!!  Or maybe a different one...&lt;a href="http://static.flickr.com/30/97604896_3f2a760d07_b.jpg">View Large&lt;/a>(DSC_4800)</FreeText>
+    <MediaName>Red-Shouldered Hawk 1</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Maryland</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">2006</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nikond70</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Feb</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">February</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">D70s</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">D70</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm1.staticflickr.com/30/97604896_3f2a760d07_b.jpg</MediaUri>
+     <MediaPreview>http://farm1.staticflickr.com/30/97604896_3f2a760d07_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Jon -</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>628532</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>Red-shoulder hawk &amp; wild birds sing. This video gives me a feeling of being out in the woods as a child in New England. Audio Bible Online, KJV godsletter.com</FreeText>
+    <MediaName>Red Shoulder Hawk</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">07</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">07jimmy</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Jimmy</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">O7jimmy</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Revski</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=-ep9CNgFZxQ</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/-ep9CNgFZxQ/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>o7jimmy</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>74</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Hawk_2.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">2006</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Maryland</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nikond70</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Feb</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">February</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">D70s</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">D70</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">07</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">07jimmy</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Jimmy</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">O7jimmy</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Revski</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Red-Shouldered Hawk 1</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000162.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

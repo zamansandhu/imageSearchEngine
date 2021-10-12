@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Dove</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000110</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Speckled Pigeon (Columba guinea) is a pigeon which is a resident breeding bird in much of Africa south of the Sahara. It is a common and widespread species in open habitats over a good deal of its range, although there are sizeable gaps in its distribution.This species builds a large stick nest in a tree and lays two white eggs. Its flight is quick, with the regular beats and an occasional sharp flick of the wings which are characteristic of pigeons in general.This is a large pigeon at 41cm in length. Its back and wings are rufous, the latter heavily speckled with white spots. The rest of the upperparts and underparts are blue-grey, and the head is grey with red patches around the eye. The neck is brownish, streaked with white, and the legs are red. Sexes are similar, but immatures are browner than adults.The Speckled Pigeon is frequently seen around human habitation and cultivation. Most of its food is vegetable, and it gathers in large numbers where grain is available.</FreeText>
+    <MediaName>Speckled Pigeon </MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Speckled</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Pigeon</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Africa</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm4.staticflickr.com/3345/3273816737_3a950bfb2f_b.jpg</MediaUri>
+     <MediaPreview>http://farm4.staticflickr.com/3345/3273816737_3a950bfb2f_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Layzeboy Photography Nature &amp; Wildlife ©</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>439296</Size>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Dove_2.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Speckled</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Pigeon</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Africa</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Speckled Pigeon </MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000110.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Penguin</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-0000800001B5</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="Object3D">
+    <FreeText>THIS IS 3D!!!!!!! And it kinda has like 4 flippers, but i'm sure you wont notice xD</FreeText>
+    <MediaName>penguin</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://sketchup.google.com/3dwarehouse/download?mid=760107c37d0da82091837c6e444d6d63&amp;rtyp=zip&amp;fn=Untitled&amp;ctyp=other&amp;ts=1263930679000&amp;ct=gd</MediaUri>
+     <MediaPreview>http://sketchup.google.com/3dwarehouse/download?mid=760107c37d0da82091837c6e444d6d63&amp;rtyp=lt&amp;ctyp=other&amp;ts=1263930679000&amp;ct=gd</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>anonymous (http://sketchup.google.com/3dwarehouse/search?uq=1567488339862720064744259&amp;scoring=m&amp;ct=gd)</Name>
+     </Author>
+     <Licensing>Google 3D Warehouse License</Licensing>
+    </MediaCreationInformation>
+    <Size>750901</Size>
+   </MultimediaContent>
+   <MultimediaContent type="ImageType">
+    <FreeText>Emperor penguin.</FreeText>
+    <MediaName>Emperor Penguin</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Emperorpenguin</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Antarctica</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Sanae</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm6.staticflickr.com/5282/5282627321_e4ab23cc30_b.jpg</MediaUri>
+     <MediaPreview>http://farm6.staticflickr.com/5282/5282627321_e4ab23cc30_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Ken Rice</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>409191</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>The life of Emperor penguins on Snow Hill Island</FreeText>
+    <MediaName>Emperor Penguins 4</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">People</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Antarctica</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Emperor</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Emperors</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Hill</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Island</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Kapitan</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=AjGx9D-53HM</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/AjGx9D-53HM/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>mi5711</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>27</MediaTime>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>penguin singing in False Bay South Africa</FreeText>
+    <MediaName>pinguin_vox.wav</MediaName>
+    <FileFormat>audio/x-wav</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Voice</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Sex</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Scream</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Animal</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Field-recordings</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/45394/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/45/45394_49629_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/pinguin_vox.wav_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>NOISE.INC</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>1747352</Size>
+    <MediaTime>10</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Penguin.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Emperorpenguin</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Antarctica</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Sanae</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">People</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Emperor</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Emperors</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Hill</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Island</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Kapitan</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Voice</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Sex</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Scream</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Animal</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Field-recordings</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Emperor Penguin</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-0000800001B5.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="Object3D">
+   <MediaName>penguin</MediaName>
+   <Shape3DDescription matching="MultiViewL2" type="CMVD">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="212" descriptorSize="3816" totalNumOfViews="18">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/3D/80000000-8000-0000-F000-0000800001B5.zip.txt</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </Shape3DDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>pinguin_vox.wav</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-0000800001B5.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

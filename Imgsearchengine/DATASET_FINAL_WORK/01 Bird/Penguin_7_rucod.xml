@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Penguin</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-0000800001B2</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="Object3D">
+    <FreeText>The King Penguin is the second-largest penguin in the world. It stands about 70 cm tall (30 in.) and weighs between 9 and 15 kg (20 to 30 lb.).      King Penguins are often confused with Emperor Penguins because they have similar colouration. Like most penguins, they have white bellies, silver-grey backs and blackish heads. King Penguins are distinguished from other penguins by the orange of their upper breast area and an orange tear-shaped patch over each ear.      King Penguins live close to Antarctica on the Falkland Islands, the Macquarie Islands, the Îles Crozet, Heard Island and Marion Island. They gather in groups, and prefer beaches or flat, rocky areas that are free of snow and ice. One colony can include as many as 600 000 birds! Even though the colony is enormous, each family of Kings has its own space, which the adults protect by slapping or pecking any other penguin that gets too close.  i got all the info on the king penguin from</FreeText>
+    <MediaName>King Penguin (Aptenodytes patagonicus)</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://sketchup.google.com/3dwarehouse/download?mid=2a49779f7bcdc21381c3fd88124a2666&amp;rtyp=zip&amp;fn=penguin&amp;ctyp=other&amp;ts=1215546494000&amp;ct=gd</MediaUri>
+     <MediaPreview>http://sketchup.google.com/3dwarehouse/download?mid=2a49779f7bcdc21381c3fd88124a2666&amp;rtyp=lt&amp;ctyp=other&amp;ts=1215546494000&amp;ct=gd</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>snow wolf (http://sketchup.google.com/3dwarehouse/search?uq=0313519900113526479538863&amp;scoring=m&amp;ct=gd)</Name>
+     </Author>
+     <Licensing>Google 3D Warehouse License</Licensing>
+    </MediaCreationInformation>
+    <Size>793</Size>
+   </MultimediaContent>
+   <MultimediaContent type="ImageType">
+    <MediaName>Emperor Penguin</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Emperorpenguin</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Antarctica</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Sanae</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm6.staticflickr.com/5286/5282627007_d28fd0d707_b.jpg</MediaUri>
+     <MediaPreview>http://farm6.staticflickr.com/5286/5282627007_d28fd0d707_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Ken Rice</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>406733</Size>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Penguin_7.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Emperorpenguin</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Antarctica</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Sanae</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Emperor Penguin</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-0000800001B2.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="Object3D">
+   <MediaName>King Penguin (Aptenodytes patagonicus)</MediaName>
+   <Shape3DDescription matching="MultiViewL2" type="CMVD">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="212" descriptorSize="3816" totalNumOfViews="18">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/3D/80000000-8000-0000-F000-0000800001B2.zip.txt</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </Shape3DDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

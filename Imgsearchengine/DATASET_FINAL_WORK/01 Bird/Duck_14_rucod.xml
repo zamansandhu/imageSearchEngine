@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Duck</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000117</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>The Mallard, or Wild duck (Anas platyrhynchos), probably the best-known and most recognizable of all ducks, is a dabbling duck which breeds throughout the temperate and sub-tropical areas of North America, Europe, Asia, New Zealand (where it is currently the most common duck species), and Australia. It is strongly migratory in the northern parts of its breeding range, and winters farther south. For example, in North America it winters south to Mexico, but also regularly strays into Central America and the Caribbean between September and May.</FreeText>
+    <MediaName>Mallard - Wild Duck</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Molenvijver</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Genk</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Belgium</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Limburg</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Mallard</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Wild</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Duck</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Anas</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm5.staticflickr.com/4034/4650954356_261100c4fc_b.jpg</MediaUri>
+     <MediaPreview>http://farm5.staticflickr.com/4034/4650954356_261100c4fc_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Ormokano</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>418407</Size>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>call of a Mallard. The bird was flying in circles so you start hearing it very close, then moving further and around</FreeText>
+    <MediaName>20070303.duck.wav</MediaName>
+    <FileFormat>audio/x-wav</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Mallard</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Environmental-sounds-research</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Winter</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Marshes</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Duck</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird-calls</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">South-spain</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/31835/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/31/31835_8043_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/20070303.duck.wav_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>dobroide</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>4691072</Size>
+    <MediaTime>27</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Duck_14.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Molenvijver</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Genk</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Belgium</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Limburg</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Mallard</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Wild</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Duck</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Anas</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Environmental-sounds-research</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Winter</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Marshes</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird-calls</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">South-spain</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Mallard - Wild Duck</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000117.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>20070303.duck.wav</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-000080000117.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

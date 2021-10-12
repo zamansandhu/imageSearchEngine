@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Parrot</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-00008000018A</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>The Red Parrot is back. He is sitting on the bird feeder I erected in the Golden Rain tree.</FreeText>
+    <MediaName>The Red Parrot</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Red</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Parrot</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Picnik</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm8.staticflickr.com/7022/6638501275_3b6a76e530_b.jpg</MediaUri>
+     <MediaPreview>http://farm8.staticflickr.com/7022/6638501275_3b6a76e530_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Jan Clewett</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>541287</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>bright red parrot in the rain forest</FreeText>
+    <MediaName>Red parrot</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">'red</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Parrot'</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Parrot</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Red</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=TrTBG43nNbM</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/TrTBG43nNbM/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>chri5cole</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>36</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Parrot_15.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Red</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Parrot</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Picnik</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">'red</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Parrot'</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>The Red Parrot</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-00008000018A.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

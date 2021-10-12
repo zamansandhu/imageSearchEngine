@@ -1,0 +1,327 @@
+{% extends "bas4.html" %} {% load static from staticfiles %}
+<link rel="stylesheet" href="{% static '/css/stylling.css' %}"> {% block content %}
+<style>
+    div#a {
+        position: relative;
+        display: inline-block;
+        border-bottom: 1px dotted black;
+    }
+    
+    div#a div#b {
+        visibility: hidden;
+        width: 140px;
+        background-color: #786D5F;
+        color: #fff;
+        text-align: center;
+        border-radius: 6px;
+        padding: 5px 0;
+        /* Position the tooltip */
+        position: absolute;
+        z-index: 1;
+    }
+    
+    div#a:hover div#b {
+        visibility: visible;
+    }
+    
+    #graph {
+        width: 100%;
+        height: 500px;
+        display: block;
+    }
+</style>
+<div class="header container-fluid" id="two">
+    <h1 style="text-align:center; margin-top:20px;"> Image Search Engine Using Lucene</h1>
+</div>
+
+{% if images %}
+<!-- <h2 class="header2 " style="margin-top:1px; margin-left:2px; text-align:center; "> Here is the list of pictures we Found Related to your search </h2> -->
+<div class="searchh-info ">
+    <span><span><strong>Cluster:</strong> {{clusterName}}</span></span>
+    <!-- <span><a href=" " class="btn btn-primary ">View Result Graph</a></span> -->
+</div>
+
+<div id="tabs">
+    <ul>
+        <li><a href="#tabs-1">Images</a></li>
+        <li><a href="#tabs-2">Graph</a></li>
+    </ul>
+    <div id="tabs-1">
+        <div class="row ">
+            <div class="col-lg-12 ">
+                <div class="row ">
+                    <div class="col-lg-12 ">
+                        <ul>
+                            {% for obj in images %}
+                            <li id="{{obj.name}}" class="query-image aaaaa" free-text="{{obj.freeText}}" media-url="{{obj.imageUrl}}" tags="{{obj.tags}}" name="{{obj.name}}" neighbors="{{neighbors}}" style="background:url( '{{obj.imageUrl}}'); cursor: pointer;">
+                                <span>{{obj.name}}</span>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                        <script>
+                            $('.aaaaa').on('click', function() {
+                                const freeText = $(this).attr('free-text');
+                                const imageUrl = $(this).attr('media-url');
+                                const tags = $(this).attr('tags');
+                                const name = $(this).attr('name');
+                                let neighbors = '';
+                                try {
+                                    neighbors = JSON.stringify(JSON.parse($(this).attr('neighbors')));
+                                } catch (error) {
+
+                                }
+
+                                console.log('bondddd', neighbors);
+                                var form = $(
+                                    '<form  action="/Results/detail" method="post">{% csrf_token %}' +
+                                    '<input type="text" name="freeText" value="' + freeText + '" />' +
+                                    '<input type="text" name="imageUrl" value="' + imageUrl + '" />' +
+                                    '<input type="text" name="tags" value="' + tags + '" />' +
+                                    '<input type="text" name="name" value="' + name + '" />' +
+                                    '<input type="text" name="neighbors" value="' + encodeURIComponent(
+                                        neighbors) + '" />' +
+                                    '</form>');
+                                $('body').append(form);
+                                form.submit();
+                            })
+                        </script>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div id="tabs-2">
+        <div id="graph">
+
+        </div>
+    </div>
+    <div class="modal" id="_modal" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+
+                <div class="modal-body" id="chacha">
+                    <div class="row">
+                        <div class="col-lg-12" id="img">
+                            <div class="bg img-responsive" style="height:700px;background-size:cover!important;background:url( '{{imageUrl}}'); cursor: pointer;">
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th>Name</th>
+                                        <th>Description</th>
+                                        <th>Tags</th>
+                                        <th>URL</th>
+                                    </tr>
+                                    <tbody>
+                                        <tr>
+                                            <td style="word-break: break-all;" id="name"></td>
+                                            <td style="word-break: break-all;" id="freeText"></td>
+                                            <td style="word-break: break-all;" id="tags"></td>
+                                            <td style="word-break: break-all;" id="url"></td>
+                                        </tr>
+                                    </tbody>
+                                </thead>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(function() {
+        $("#tabs").tabs({
+            active: 0
+        });
+    });
+    var parser = new DOMParser;
+    var dom = parser.parseFromString(
+        "{{graphData}}",
+        'text/html');
+    var decodedString = dom.body.textContent;
+    var a = decodedString.replace(/'/g, '"').replace(/False/g, false);
+    a = JSON.parse(a);
+    const data = [];
+
+    dom = parser.parseFromString(
+        "{{images}}",
+        'text/html');
+    decodedString = dom.body.textContent;
+    var b = decodedString.replace(/'/g, '"').replace(/False/g, false);
+    console.log('chuchu', b);
+    var contentSansAnchors = b.replace(/<\/?a[^>]*>/g, "");
+    var images = JSON.parse(contentSansAnchors);
+    console.log(images);
+    const fImages = []
+    $(function() {
+        images.forEach(obj => {
+
+            $('#' + obj.name).attr('neighbors', JSON.stringify(obj.neighbors))
+        });
+        a.nodes.forEach(element => {
+            const a = images.filter((x => x.name == element.id))[0];
+            fImages.push(a);
+            data.push({
+                group: 'nodes',
+                data: {
+                    id: element.id,
+                    nodeData: a
+                }
+            })
+        });
+        console.log('filtered', fImages);
+        a.links.forEach(element => {
+            data.push({
+                data: {
+                    id: element.source + element.target,
+                    source: element.source,
+                    target: element.target,
+                    weight: element.weight
+                }
+            })
+        });
+        var cy = cytoscape({
+            container: document.getElementById('graph'),
+            elements: data,
+            // elements: [ // list of graph elements to start with
+            //     { // node a
+            //         data: {
+            //             id: 'a'
+            //         }
+            //     }, { // node b
+            //         data: {
+            //             id: 'b'
+            //         }
+            //     }, { // edge ab
+            //         data: {
+            //             id: 'ab',
+            //             source: 'a',
+            //             target: 'b'
+            //         }
+            //     }
+            // ],
+
+            style: [ // the stylesheet for the graph
+                {
+                    selector: 'node',
+                    style: {
+                        'background-color': '#666',
+                        'label': 'data(id)',
+                        'height': 80,
+                        'width': 80,
+                        'background-fit': 'cover',
+                        'border-color': '#000',
+                        'border-width': 3,
+                        'border-opacity': 0.5
+                    }
+                },
+
+                {
+                    selector: 'edge',
+                    style: {
+                        'width': 3,
+                        'line-color': '#ccc',
+                        'target-arrow-color': '#ccc',
+                        'target-arrow-shape': 'triangle',
+                        'label': 'data(weight)',
+                        'text-rotation': 'autorotate'
+                    }
+                }
+            ],
+
+            layout: {
+                name: 'random',
+                rows: 3
+            }
+        });
+
+        cy.on('tap', 'node', function(evt) {
+            console.log(evt);
+            var node = evt.target;
+            console.log(node.data());
+            $('#chacha #img').html(
+                `<div class="bg img-responsive" style="height:700px;background-size:cover!important;background:url('${node.data().nodeData.imageUrl}'); cursor: pointer;">
+                            </div>`
+            );
+            $('#chacha #name').text(node.data().nodeData.name);
+            $('#chacha #freeText').text(node.data().nodeData.freeText);
+            $('#chacha #tags').text(node.data().nodeData.tags.join(','));
+            $('#chacha #url').text(node.data().nodeData.imageUrl);
+            $('#_modal').modal({
+                show: true
+            })
+        });
+        fImages.forEach(element => {
+            getImg("http://localhost:8000/getbase64?url=" + element
+                .imageUrl, (b) => {
+
+                    cy.style()
+                        .selector('#' + element.name).css({
+                            'background-image': b
+                        }).update()
+                })
+
+        });
+    });
+
+    function getImg(url, cb) {
+        $.get(url, (data) => {
+            cb(data);
+        })
+    }
+</script>
+<!-- <div class="col-lg-2 ">
+    <table>
+        <h3 class="header " style="margin-left:-20px;margin-top:-8px;margin-right:-29px; "> Cluster Name </h3>
+        <tr>
+            <td>
+                <div class="umeedhalastfarmaish ">
+                    <h3 style="margin-left:8px ">{{ jsmaxkey }} </h3>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td> <br>With the highest jaccard similarity = {{ jsmax }} </td>
+        </tr>
+    </table>
+</div> -->
+<!-- <div class="col-lg-6 " id="a " class="ab ">
+    <h3 class="header " style="margin-top:-8px "> Images Grid View </h3>
+    <table>
+        <tr>
+            {% for obj in imageslist %}
+            <div id="b " class="cd ">
+                {{ obj.object.img_title }}
+                <p><b> Free Text: </b> {{ obj.object.img_description }} </p><br>
+            </div>
+            <a href="{{uservalue}}/{{obj.object.id}} "><img src="{{ obj.object.image.url }} " width="200px " height="200px " style="padding:2px "></a>
+            {% endfor %}
+        </tr>
+
+    </table>
+</div> -->
+<!-- <div class="col-lg-2 " style="margin-left:-28px ">
+    <h3 class="header " style="margin-top:-8px;margin-right:-42px "> Recommended For You</h3>
+    <table>
+        {% for obj2 in imageslist %}
+        <tr>
+            <td> <a href="{{uservalue}}/{{obj2.object.id}} "><span>{{ obj2.object.img_title }}</span></a>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <span>{{ obj2.object.img_usertag }}</span>
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+</div> -->
+{% else %}
+<h3> We couldn't found something related to your search</h3>
+{% endif %} {% endblock %}

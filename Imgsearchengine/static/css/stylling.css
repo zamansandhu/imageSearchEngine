@@ -1,0 +1,126 @@
+.bodyclass {
+    background-image: url('background.jpg');
+    background-repeat: no;
+}
+
+#one {
+    background-image: url('background.jpg');
+    background-repeat: no;
+    color: white;
+}
+
+.header {
+    margin-top: 1px;
+    font-size: 23px;
+    background-color: #3BB9FF;
+    color: white;
+    text-align: center;
+}
+
+#header4 {
+    margin-top: 1px;
+    font-size: 23px;
+    background-color: #3BB9FF;
+    color: white;
+    text-align: center;
+}
+
+.header3 {
+    overflow: hidden;
+    margin-top: 1px;
+    font-size: 20px;
+    margin-left: 1.5px;
+    background-color: #3BB9FF;
+    color: white;
+    text-align: center;
+}
+
+.header2 {
+    margin-top: 1px;
+    margin-left: 20px;
+    background-color: #3BB9FF;
+    color: white;
+    text-align: center;
+}
+
+#topnav {
+    overflow: hidden;
+    margin-left: 1px;
+    margin-top: 1px;
+    margin-right: 1.5px;
+    background-color: #786D5F;
+}
+
+.top {
+    overflow: hidden;
+    margin-left: 1px;
+    margin-top: 1px;
+    margin-right: 1.5px;
+    background-color: #786D5F;
+}
+
+#topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    margin-left: 1.5px;
+    margin-right: 1.5px;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+}
+
+
+/* Change color on hover */
+
+#topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.umeedhalastfarmaish {
+    border-radius: 20px;
+    height: 70px;
+    width: 210px;
+    border: 0.5px solid grey;
+}
+
+.query-image {
+    width: 220px;
+    height: 240px;
+    margin: 8px 4px;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    border: 1px solid #e6e6e6;
+    display: inline-block;
+    max-height: 200px;
+    position: relative;
+}
+
+.query-image span {
+    position: absolute;
+    /* display: block; */
+    bottom: 0;
+    background: #000000b8;
+    width: 100%;
+    text-align: center;
+    color: white;
+    padding: 10px 7px;
+}
+
+ul {
+    padding-left: 0;
+    border-right: 1px solid #cecece;
+}
+
+.searchh-info {
+    display: flex;
+    padding: 15px 0;
+    justify-content: space-between;
+}
+
+.searchh-info span {
+    margin-right: 20px;
+    font-size: 20px;
+}

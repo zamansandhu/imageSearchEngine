@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Swan</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-0000800001C3</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Mute Swan (Cygnus olor), Toronto, Ontario.Taken just before my D70 was taken by the Green Blinking Light of Death!  Nikon says the camera will be gone for 6 - 8 weeks for repairs.  Until then, I'll be posting some older pictures I never got around to posting...</FreeText>
+    <MediaName>Mute Swan</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Muteswan</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Cygnusolor</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Toronto</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Beach</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Waterfront</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Ilovenature</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Wildanimals</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm1.staticflickr.com/32/91067237_7fe7428146_z.jpg?zz=1</MediaUri>
+     <MediaPreview>http://farm1.staticflickr.com/32/91067237_7fe7428146_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Matthew</Name>
+     </Author>
+     <Licensing>Attribution-NonCommercial-NoDerivs License</Licensing>
+    </MediaCreationInformation>
+    <Size>246144</Size>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Swan_10.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Muteswan</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Cygnusolor</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Toronto</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Beach</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Waterfront</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Ilovenature</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Wildanimals</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Mute Swan</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-0000800001C3.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

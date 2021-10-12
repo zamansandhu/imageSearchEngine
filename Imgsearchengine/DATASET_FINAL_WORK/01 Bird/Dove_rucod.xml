@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Dove</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000112</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="Object3D">
+    <FreeText>A 3D Pigeon (i know the colours arent very good)</FreeText>
+    <MediaName>Pigeon</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Pigeon</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://sketchup.google.com/3dwarehouse/download?mid=23f1e8e2f180f1349eb7204f64245425&amp;rtyp=zip&amp;fn=Untitled&amp;ctyp=other&amp;ts=1202485627000&amp;ct=gd</MediaUri>
+     <MediaPreview>http://sketchup.google.com/3dwarehouse/download?mid=23f1e8e2f180f1349eb7204f64245425&amp;rtyp=lt&amp;ctyp=other&amp;ts=1202485627000&amp;ct=gd</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>anonymous (http://sketchup.google.com/3dwarehouse/search?uq=1567488339862720064744259&amp;scoring=m&amp;ct=gd)</Name>
+     </Author>
+     <Licensing>Google 3D Warehouse License</Licensing>
+    </MediaCreationInformation>
+    <Size>430100</Size>
+   </MultimediaContent>
+   <MultimediaContent type="ImageType">
+    <FreeText>This title is derived from the overall light blue coloring of the birds main body, bar is from the blue/black bars across the wing, and splash is revering to the white coloring on the head and neck.  As if it had been splashed with white paint!  The description could be extended further to call it white flighted, meaning the long white wing feathers.</FreeText>
+    <MediaName>BLUE BAR SPLASH HOMING PIGEON</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Pigeon</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Homing</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Racing</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Carrier</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm4.staticflickr.com/3518/3175841269_e655986aeb.jpg</MediaUri>
+     <MediaPreview>http://farm4.staticflickr.com/3518/3175841269_e655986aeb_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Ralph</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>39042</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>Here is a clip of CBS News' coverage of the Nike x Staple Pigeon Dunk riot scene.</FreeText>
+    <MediaName>CBS News Nike + Staple Pigeon Dunk Riot</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">People</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Jeffstaple</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Staple</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Reed</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Space</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Darrin</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Hudson</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=ADIGNcQqTsc</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/ADIGNcQqTsc/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>jeffstaple</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>150</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Dove.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Pigeon</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Homing</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Racing</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Carrier</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">People</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Jeffstaple</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Staple</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Reed</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Space</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Darrin</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Hudson</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>BLUE BAR SPLASH HOMING PIGEON</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000112.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="Object3D">
+   <MediaName>Pigeon</MediaName>
+   <Shape3DDescription matching="MultiViewL2" type="CMVD">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="212" descriptorSize="3816" totalNumOfViews="18">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/3D/80000000-8000-0000-F000-000080000112.zip.txt</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </Shape3DDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

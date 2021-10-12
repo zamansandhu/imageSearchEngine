@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Eagle</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000136</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>American Harpy Eagle [Harpia harpyja] The largest and most poweful bird of prey in the Americas. Found in tropical settings in Central America and the Amazon basin of South America, sloths and monkeys make up the majority of its diet. {Doesn't quite seem like a fair contest to me matching a diving Harpy Eagle with its six foot wing span to snatch a sloth moving at roughly half the speed of the slickest snail}Their talons can be up to 5 inches long and the Harpy is strong enough in flight to pluck prey 3/4 of its own weight out of the canopy of tropical trees.They produce two eggs every two or three years and as soon as the first egg hatches the other egg is ignored and fails to produce a young eagle.I was fascinated by the &amp;quot;egg&amp;quot; display at the Birds of Prey exhibit. In addition to the normal chicken egg shape we are all use to seeing they had &amp;quot;pear shape&amp;quot; eggs that ledge laying birds produce that will roll around in tight circles when disturbed (preventing them from going over the edge like a normally shaped bird egg would).Harpy Eagles nest in the biggest tallest rainforest trees they can find. A favorite is the Kapok tree and locals consider it &amp;quot;bad luck&amp;quot; to disturb such a tree (habitat preservation).Info credit on the Harpy Eagle: wikipediaHeading home we stopped in Boise for a big country breakfast at the Cracker Barrel restaurant. We then decided to check out the World Center for Birds of Prey. After our visit there I had mixed feelings about the place. It was a large well maintained facility with friendly knowledgeable people working there. They had two condors on site and the work they have done to try to help save this large bird from total extinction is admirable.On the negative side, there is the conundrum. If a bird of prey is healthy enough to live in the wild, I hate to zee them in a zoo or anywhere where they are unable to fly and soar free and high. At least fish in an aquarium can swim, but birds of prey, no matter how noble the cause, don’t seem to belong in pens or places where they are unable to do what they were born and designed to do. Fly.Most of the pens made it difficult to get a good look at the birds (the condor exhibit and about a half dozen Plexiglas “rooms” were exceptions. There is definitely an emphasis on “joining” and “contributing” but they weren’t pushy about it.We thoroughly enjoyed the presentation portion of our visit, when a volunteer brought out one of the birds and did an outstanding job of describing everything about the featured bird. The star of the show the day we visited was the unlikely “Turkey Vulture”, who honestly seemed to enjoy his time in the limelight. I can even go as far as to say he tried his best to show off a bit. The facts presented by the lady volunteer about this ungainly looking scavenger were interesting.The price of admission is reasonable and it is only a half dozen mile drive from the Boise Cracker Barrel. I couldn’t get any descent photos of the birds of prey in the small enclosures (dark, barred and netted). The photos I’m posting were about as good as I could do with my very limited photographer’s skills. The birds are magnificent and I hope most or all of them are destined to fly the skies once more.</FreeText>
+    <MediaName>Harpy Eagle</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Birdsofprey</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Worldcenterbirdsofprey</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Birdsofpreyboiseidaho</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Raptors</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Harpyeagle</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Gyrfalcon</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Californiacondor</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Falcons</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm5.staticflickr.com/4091/4960653862_313555bcef_b.jpg</MediaUri>
+     <MediaPreview>http://farm5.staticflickr.com/4091/4960653862_313555bcef_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>OldManTravels</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>440525</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>De Harpij-Eagle-Psychologische benadering voor het Stimuleren-maken van een nest in gevangenschap.Project van Stichting Crax Brasil-Contagem Brasil-Mr.Roberto Azzaredo. Music by Harry Holland. Info: H Geurts box 2707 6201 JA Maastricht Nederland telefoon + + 32 478 45 98 53 mail naar: geurts52@hetnet.nl www.artificial-pigeon.com</FreeText>
+    <MediaName>The Harpy Eagle-threes-psychologic work for nest + incubation by H Geurts.mpg</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Tech</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">MP</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">101</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Maastricht</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">NL</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=iMZgj3MdMTo</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/iMZgj3MdMTo/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>harrygeurts9</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>301</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Eagle_15.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">101</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Birdsofprey</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Worldcenterbirdsofprey</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Birdsofpreyboiseidaho</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Raptors</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Harpyeagle</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Gyrfalcon</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Californiacondor</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Falcons</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Tech</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">MP</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Maastricht</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">NL</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Harpy Eagle</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000136.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Parrot</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-00008000019F</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="Object3D">
+    <FreeText>A 3D model of a Quaker parrot  otherwise known as a monk parakeet with a metal band on his leg with the leters FL meaning florida.</FreeText>
+    <MediaName>3D Quaker parrot / monk parakeet</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Parrot</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://sketchup.google.com/3dwarehouse/download?mid=8204194c0c5c10eb5ddbf68fecf40701&amp;rtyp=zip&amp;fn=ducky+3D+model&amp;ctyp=other&amp;ts=1246462889000&amp;ct=gd</MediaUri>
+     <MediaPreview>http://sketchup.google.com/3dwarehouse/download?mid=8204194c0c5c10eb5ddbf68fecf40701&amp;rtyp=lt&amp;ctyp=other&amp;ts=1246462889000&amp;ct=gd</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Ducky (http://sketchup.google.com/3dwarehouse/search?uq=1548309727966690607812886&amp;scoring=m&amp;ct=gd)</Name>
+     </Author>
+     <Licensing>Google 3D Warehouse License</Licensing>
+    </MediaCreationInformation>
+    <Size>114618</Size>
+   </MultimediaContent>
+   <MultimediaContent type="ImageType">
+    <FreeText>Monk Parakeet Nest</FreeText>
+    <MediaName>Monk Parakeet Nest</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Monk</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Parakeet</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nest</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm8.staticflickr.com/7222/7281520556_93d6b15754_k.jpg</MediaUri>
+     <MediaPreview>http://farm8.staticflickr.com/7222/7281520556_82aa4253cc_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Barry Noret</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>1677312</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>A Monk Parakeet drinking from a puddle in Parc de la Ciutadella, Barcelona, Spain.</FreeText>
+    <MediaName>Monk Parakeet drinking from puddle</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Monk</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Parakeet</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Green</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Parrot</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Puddle</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=7obxxq0cfG0</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/7obxxq0cfG0/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>rimski</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>37</MediaTime>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>Recording of an African Grey parrot (about 50 years old) whistling, recorded with Audacity and the built-in microphone on an iBook. </FreeText>
+    <MediaName>whistle2.mp3</MediaName>
+    <FileFormat>audio/mpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Whistling</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Whistle</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Parrot</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/34325/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/34/34325_317104_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/whistle2.mp3_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>james11111</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>14159</Size>
+    <MediaTime>1</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Parrot.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Parrot</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Monk</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Parakeet</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nest</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Green</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Puddle</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Whistling</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Whistle</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Monk Parakeet Nest</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-00008000019F.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="Object3D">
+   <MediaName>3D Quaker parrot / monk parakeet</MediaName>
+   <Shape3DDescription matching="MultiViewL2" type="CMVD">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="212" descriptorSize="3816" totalNumOfViews="18">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/3D/80000000-8000-0000-F000-00008000019F.zip.txt</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </Shape3DDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>whistle2.mp3</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-00008000019F.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

@@ -1,0 +1,37 @@
+"object" : [
+{
+        "img_title":
+             "MediaName": "Bird - Robin Red Breast Eating Bird Seed"
+ },
+{
+"img_uri": "MediaUri": "http://farm4.staticflickr.com/3080/2697549953_a2a1cde3f6.jpg"
+},
+{
+"img_description": "L_Descriptor": {
+"MediaName": "Bird - Robin Red Breast Eating Bird Seed",
+"ImageDescription": {
+"@matching": "L2Distance",
+"LowLevelDescriptor": {
+"@descriptorType": "xsd:float",
+"@totalNumOfDescriptors": "8168",
+"@descriptorSize": "1021",
+"Store": {
+"DescriptorLocator": {
+"DescriptorUri": "http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000105.imgdescr"
+}}}}}
+},
+{
+        "img_usertag":
+               "MetaTag": [{
+                  "@name": "UserTag",
+                  "#text": "Digitalphotography"
+               }]
+},
+{
+"img_category": "MediaCreationInformation": {
+"Author": {
+"Name": "Digital Wallpapers"
+}
+}
+},
+]

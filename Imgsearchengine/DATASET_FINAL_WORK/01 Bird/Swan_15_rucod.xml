@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Swan</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-0000800001C8</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Mute Swan (Cygnus olor), Morriston, Ontario.If this one doesn't chill you to the bone, I don't know what will.Reminiscent of (although not nearly as good as) Jerry Uelsmann's Swan</FreeText>
+    <MediaName>Mute Swan, Chilling</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Muteswan</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Morriston</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Pond</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Waterfowl</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Cygnusolor</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">White</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Cold</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Snow</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm1.staticflickr.com/28/66970185_fe9ce59f5c_z.jpg?zz=1</MediaUri>
+     <MediaPreview>http://farm1.staticflickr.com/28/66970185_fe9ce59f5c_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Matthew</Name>
+     </Author>
+     <Licensing>Attribution-NonCommercial-NoDerivs License</Licensing>
+    </MediaCreationInformation>
+    <Size>163584</Size>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Swan_15.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Muteswan</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Morriston</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Pond</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Waterfowl</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Cygnusolor</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">White</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Cold</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Snow</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Mute Swan, Chilling</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-0000800001C8.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

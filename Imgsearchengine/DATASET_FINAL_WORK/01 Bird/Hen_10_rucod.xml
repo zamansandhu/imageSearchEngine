@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Hen</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-00008000016B</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="Object3D">
+    <FreeText>A simple, face me chicken.  It's a bit large, though.</FreeText>
+    <MediaName>Face Me Giant Chicken</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Rooster</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://sketchup.google.com/3dwarehouse/download?mid=cbde5e00b50efcf5560bd80f779bab3&amp;rtyp=zip&amp;fn=chik&amp;ctyp=other&amp;ts=1202488264000&amp;ct=gd</MediaUri>
+     <MediaPreview>http://sketchup.google.com/3dwarehouse/download?mid=cbde5e00b50efcf5560bd80f779bab3&amp;rtyp=lt&amp;ctyp=other&amp;ts=1202488264000&amp;ct=gd</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>JB (http://sketchup.google.com/3dwarehouse/search?uq=1770602661522057499151587&amp;scoring=m&amp;ct=gd)</Name>
+     </Author>
+     <Licensing>Google 3D Warehouse License</Licensing>
+    </MediaCreationInformation>
+    <Size>74022</Size>
+   </MultimediaContent>
+   <MultimediaContent type="ImageType">
+    <FreeText>Purty Rooster</FreeText>
+    <MediaName>Rooster</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">3gphotos</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Criticisimwelcome</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Rooster</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm4.staticflickr.com/3259/2656517434_c01e7cecdf_b.jpg</MediaUri>
+     <MediaPreview>http://farm4.staticflickr.com/3259/2656517434_c01e7cecdf_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>leslielynnm</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>503808</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>More animals at the farm</FreeText>
+    <MediaName>Buff Orpington Rooster Crowing</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Buff</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Orpington</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Rooster</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Chicken</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Crow</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Crowing</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=MH9GO6Xoz44</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/MH9GO6Xoz44/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>rhughe13</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>7</MediaTime>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>Rooster rowing (single crow)</FreeText>
+    <MediaName>Rooster chicken calls_2.wav</MediaName>
+    <FileFormat>audio/x-wav</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Environmental-sounds-research</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Rooster</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">House</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Hen</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Farm</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Chicken</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/43382/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/43/43382_50975_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/Rooster chicken calls_2.wav_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>AGFX</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>431682</Size>
+    <MediaTime>3</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Hen_10.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Rooster</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">3gphotos</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Criticisimwelcome</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Buff</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Orpington</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Chicken</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Crow</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Crowing</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Environmental-sounds-research</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">House</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Hen</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Farm</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Rooster</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-00008000016B.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="Object3D">
+   <MediaName>Face Me Giant Chicken</MediaName>
+   <Shape3DDescription matching="MultiViewL2" type="CMVD">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="212" descriptorSize="3816" totalNumOfViews="18">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/3D/80000000-8000-0000-F000-00008000016B.zip.txt</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </Shape3DDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>Rooster chicken calls_2.wav</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-00008000016B.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

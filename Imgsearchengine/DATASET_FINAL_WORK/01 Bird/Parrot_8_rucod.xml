@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Parrot</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-00008000019D</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>we saw this white parrot as we entered the park so we had to do a photo op</FreeText>
+    <MediaName>white parrot</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">White</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Parrot</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Park</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm6.staticflickr.com/5189/5604816531_343b65f1be_b.jpg</MediaUri>
+     <MediaPreview>http://farm6.staticflickr.com/5189/5604816531_343b65f1be_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Andrew S</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>234240</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>hungry cockatoos</FreeText>
+    <MediaName>white parrots</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Cockatoo</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Crest</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Wild</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Animal</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">White</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=iwT9RArids0</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/iwT9RArids0/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>ozlion1</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>61</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Parrot_8.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">White</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Parrot</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Park</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Cockatoo</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Crest</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Wild</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Animal</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>white parrot</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-00008000019D.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

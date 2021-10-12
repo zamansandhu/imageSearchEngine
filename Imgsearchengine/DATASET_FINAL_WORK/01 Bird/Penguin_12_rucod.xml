@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Penguin</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-0000800001A2</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>The Magellanic Penguin, Spheniscus magellanicus, is a South American penguin, breeding in coastal Argentina, Chile and the Falkland Islands, with some migrating to Brazil. It is the most numerous of the Spheniscus penguins. Its nearest relatives are the African Penguin, the Humboldt Penguin and the Galápagos Penguin.Magellanic Penguins are medium-sized penguins which grow to be 61–76 cm (24–30 in) tall and weigh between 2.7 kg and 6.5 kg (5.9-14.3 lbs)[1][2], with the males being larger than the females and weight dropping while each parent nurtures its young.Adults have black backs and white stomachs. There are two black bands between the head and the breast, with the lower band being in an inverted horseshoe shape. The head is black and has a broad white border running from behind the eye, around the black ear-coverts and chin, and joining on the throat. Chicks and younger penguins are grey-blue on their backs, with a more faded grey-blue color on their chest. In the wild, Magellanic Penguins can live up to 25 years, while ages of 30 years have been reached in captivity.Young birds usually have a blotched pattern on their feet, with this 'blotching' fading as they age. Older birds of over ten years usually have solid black feet.Like the other species of penguins, the Magellanic Penguin has very rigid wings used to 'fly' under water.</FreeText>
+    <MediaName>Magellanic Penguin</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Singaporezoo</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Canoneos7d</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Canonef135mmf2lusm</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Magellanicpenguin</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm5.staticflickr.com/4057/4534139425_57e04196d7_b.jpg</MediaUri>
+     <MediaPreview>http://farm5.staticflickr.com/4057/4534139425_57e04196d7_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Martinnus Budiarto</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>419636</Size>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>Two Magellanic Penguins braying, with water in the background. Recorded with an Edirol R-09HR.</FreeText>
+    <MediaName>magellanic_penguin.wav</MediaName>
+    <FileFormat>audio/x-wav</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Zoo</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Tropical</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Exotic</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Aviary</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/111079/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/111/111079_1578278_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/magellanic_penguin.wav_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>soundbytez</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>1228786</Size>
+    <MediaTime>7</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Penguin_12.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Singaporezoo</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Canoneos7d</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Canonef135mmf2lusm</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Magellanicpenguin</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Zoo</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Tropical</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Penguin</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Exotic</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Birds</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Aviary</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Magellanic Penguin</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-0000800001A2.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>magellanic_penguin.wav</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-0000800001A2.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

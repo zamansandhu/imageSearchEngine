@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Swan</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-0000800001D2</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>The Mute Swan is one of the heaviest flying birds, with males (known as cobs) averaging about 12 kg (27 lbs) and females (known as &amp;quot;pens&amp;quot;) more than 8 kg (19 lbs). An unusually big Polish cob weighed almost 23 kg (50 lbs), surpassing the longer-bodied Trumpeter Swan to make it the heaviest waterfowl ever recorded. Its size, orange-reddish bill and white plumage make this swan almost unmistakable at close quarters. Surveys done by airplane, however, often mistake the species, creating questionable counts. The most similar species is the Whooper Swan, but it has a yellow and black bill, lacks the curved &amp;quot;swan&amp;quot; neck, is longer and heavier, and lacks the characteristic projection above the bill.&lt;b>© All rights reserved&lt;/b>My &lt;a href="http://www.flickriver.com/photos/planetadventure/popular-interesting/">Most Interesting&lt;/a> - &lt;a href="http://planetadventure.blogspot.com/">{ Planet Adventure BlogSpot }&lt;/a>&lt;b>&lt;a href="http://www.stumbleupon.com/submit?url=http://www.flickr.com/photos/planetadventure/3411671959/&amp;amp;title=The+Article+Title">  Stumble It!&lt;/a>&lt;/b></FreeText>
+    <MediaName>Mute Swans Flying - Lake Bled - Slovenia</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Muteswansflying</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Lakebled</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Slovenia</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Traveltheworld</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Travelguide</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Intrepidtravel</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Worldexplorer</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Photographyhunter</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm4.staticflickr.com/3580/3411671959_0b5b2fbe16_z.jpg?zz=1</MediaUri>
+     <MediaPreview>http://farm4.staticflickr.com/3580/3411671959_0b5b2fbe16_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Alessandro Behling</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>153984</Size>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Swan_3.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Muteswansflying</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Lakebled</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Slovenia</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Traveltheworld</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Travelguide</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Intrepidtravel</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Worldexplorer</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Photographyhunter</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Mute Swans Flying - Lake Bled - Slovenia</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-0000800001D2.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

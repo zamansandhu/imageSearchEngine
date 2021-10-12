@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Eagle</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000138</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Golden Eagle</FreeText>
+    <MediaName>Golden Eagle</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Golden</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Eagle</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm7.staticflickr.com/6168/6266407628_e36a370ede_b.jpg</MediaUri>
+     <MediaPreview>http://farm7.staticflickr.com/6168/6266407628_e36a370ede_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Marc Jones</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>417792</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>Hour of hours of waiting, I succeeded at last to get an adult male on the carcass. This bird of prey is very shy, all movements and noise must be to a minimum, even in the hide. But when the eagle first arrives it's amazing to be able to shoot footage like this!</FreeText>
+    <MediaName>Golden Eagle a Portrait!</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Golden-Eagle</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Eagle</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Ørn</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Wildlife</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Norway</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=1DdXwCtGk7k</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/1DdXwCtGk7k/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>perjn</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>104</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Eagle_18.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Golden</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Eagle</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Golden-Eagle</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Ørn</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Wildlife</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Norway</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Golden Eagle</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000138.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Hen</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-00008000017A</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="Object3D">
+    <FreeText>this is my first animal. its a chicken.</FreeText>
+    <MediaName>Chicken! (3d)</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Rooster</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://sketchup.google.com/3dwarehouse/download?mid=5557c5b3d93b264e732b69095a1ced0e&amp;rtyp=zip&amp;fn=Untitled&amp;ctyp=other&amp;ts=1215797427000&amp;ct=gd</MediaUri>
+     <MediaPreview>http://sketchup.google.com/3dwarehouse/download?mid=5557c5b3d93b264e732b69095a1ced0e&amp;rtyp=lt&amp;ctyp=other&amp;ts=1215797427000&amp;ct=gd</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>fiendcracker (http://sketchup.google.com/3dwarehouse/search?uq=0105950076073513349102663&amp;scoring=m&amp;ct=gd)</Name>
+     </Author>
+     <Licensing>Google 3D Warehouse License</Licensing>
+    </MediaCreationInformation>
+    <Size>188605</Size>
+   </MultimediaContent>
+   <MultimediaContent type="ImageType">
+    <FreeText>A hen</FreeText>
+    <MediaName>Hen</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Hen</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Høne</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Vanndamman</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Randi</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Kvammen</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm3.staticflickr.com/2447/3754566613_ef30c79bdd.jpg</MediaUri>
+     <MediaPreview>http://farm3.staticflickr.com/2447/3754566613_ef30c79bdd_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Randi Kvammen</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>99900</Size>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>A hen clucking. AKG C1000 into Sony MD MZ-N710</FreeText>
+    <MediaName>Chicken Clucking.wav</MediaName>
+    <FileFormat>audio/x-wav</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Village</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Hen</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Clucking</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Chicken</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/49805/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/49/49805_309509_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/Chicken Clucking.wav_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>gelo_papas</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>4913442</Size>
+    <MediaTime>52</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Hen.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Rooster</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Hen</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Høne</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Vanndamman</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Randi</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Kvammen</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Village</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Clucking</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Chicken</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Hen</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-00008000017A.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="Object3D">
+   <MediaName>Chicken! (3d)</MediaName>
+   <Shape3DDescription matching="MultiViewL2" type="CMVD">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="212" descriptorSize="3816" totalNumOfViews="18">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/3D/80000000-8000-0000-F000-00008000017A.zip.txt</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </Shape3DDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>Chicken Clucking.wav</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-00008000017A.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

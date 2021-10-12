@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Goose</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-00008000015B</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="Object3D">
+    <FreeText>Simple 2D model of a flying goose</FreeText>
+    <MediaName>2D "Face-Me" Flying Canadian Goose</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Goose</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://sketchup.google.com/3dwarehouse/download?mid=19950b54d9cce00780502d5bfeceb485&amp;rtyp=zip&amp;fn=CanadianGooseFlying&amp;ctyp=other&amp;ts=1251562110000&amp;ct=gd</MediaUri>
+     <MediaPreview>http://sketchup.google.com/3dwarehouse/download?mid=19950b54d9cce00780502d5bfeceb485&amp;rtyp=lt&amp;ctyp=other&amp;ts=1251562110000&amp;ct=gd</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Martin (http://sketchup.google.com/3dwarehouse/search?uq=1571705384494746072029205&amp;scoring=m&amp;ct=gd)</Name>
+     </Author>
+     <Licensing>Google 3D Warehouse License</Licensing>
+    </MediaCreationInformation>
+    <Size>10323</Size>
+   </MultimediaContent>
+   <MultimediaContent type="ImageType">
+    <FreeText>Canadian Goose enjoying itself.  I'm new at this photography business so comments &amp;amp; advise are welcome!</FreeText>
+    <MediaName>Canadian Goose</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Canadiangoose</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Geese</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Swimming</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Water</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Montana</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm2.staticflickr.com/1303/4658483120_a2c4c98e4a_b.jpg</MediaUri>
+     <MediaPreview>http://farm2.staticflickr.com/1303/4658483120_a2c4c98e4a_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Peggy Ray</Name>
+     </Author>
+     <Licensing>All Rights Reserved</Licensing>
+    </MediaCreationInformation>
+    <Size>419021</Size>
+   </MultimediaContent>
+   <MultimediaContent type="VideoType">
+    <FreeText>This clip is no longer listed as a higher quality version is now included in a compilation video here - www.youtube.com</FreeText>
+    <MediaName>Canadian Goose Wings @ 300fps [CLIP]</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Canadian</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Goose</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Flapping</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Close up</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Casio</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Exf1</MetaTag>
+    <MediaLocator>
+     <MediaUri>https://www.youtube.com/watch?v=FecvxurgWwo</MediaUri>
+     <MediaPreview>http://i.ytimg.com/vi/FecvxurgWwo/default.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>Zathnet</Name>
+     </Author>
+     <Licensing>All right reserved</Licensing>
+    </MediaCreationInformation>
+    <MediaTime>42</MediaTime>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>A pair of Canada Geese calling as they fly overhead. Sony MD and stereo mic. 8-May-06</FreeText>
+    <MediaName>CanadaGeese.flac</MediaName>
+    <MetaTag type="xsd:string" name="UserTag">Quack</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Goose</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Geese</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Fly-by</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Canada</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Call</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/18794/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/18/18794_37876_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/CanadaGeese.flac_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>acclivity</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>1010328</Size>
+    <MediaTime>12</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Goose.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Goose</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Canadiangoose</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Geese</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Swimming</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Water</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Montana</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Animals</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Canadian</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Flapping</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Close up</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Casio</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Exf1</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Quack</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Fly-by</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Field-recording</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Canada</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Call</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Canadian Goose</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-00008000015B.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="Object3D">
+   <MediaName>2D "Face-Me" Flying Canadian Goose</MediaName>
+   <Shape3DDescription matching="MultiViewL2" type="CMVD">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="212" descriptorSize="3816" totalNumOfViews="18">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/3D/80000000-8000-0000-F000-00008000015B.zip.txt</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </Shape3DDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>CanadaGeese.flac</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-00008000015B.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>

@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<RUCoD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isearch-project.eu/isearch/RUCoD" xmlns:gml="http://www.opengis.net/gml" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <Header>
+  <ContentObjectType>Multimedia Collection</ContentObjectType>
+  <ContentObjectName xml:lang="en-US">Goose</ContentObjectName>
+  <ContentObjectID>80000000-8000-0000-F000-000080000159</ContentObjectID>
+  <ContentObjectVersion>1</ContentObjectVersion>
+  <ContentObjectCreationInformation>
+   <Creator>
+    <Name>CoFetch Script</Name>
+   </Creator>
+   <Contributor>
+    <Name>HS Fulda</Name>
+   </Contributor>
+   <Contributor>
+    <Name>Google</Name>
+   </Contributor>
+   <Contributor>
+    <Name>flickr.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wikipedia.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>freesound.org</Name>
+   </Contributor>
+   <Contributor>
+    <Name>wunderground.com</Name>
+   </Contributor>
+   <Contributor>
+    <Name>youtube.com</Name>
+   </Contributor>
+  </ContentObjectCreationInformation>
+  <ContentObjectTypes>
+   <MultimediaContent type="ImageType">
+    <FreeText>Canadian Goose</FreeText>
+    <MediaName>Canadian Goose</MediaName>
+    <FileFormat>image/jpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">Canadian</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Goose</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Attenborough</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Reserve</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Wildlife</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nottinghamshire</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://farm5.staticflickr.com/4002/4656111302_1ecc3da470_b.jpg</MediaUri>
+     <MediaPreview>http://farm5.staticflickr.com/4002/4656111302_1ecc3da470_s.jpg</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>John Glass</Name>
+     </Author>
+     <Licensing>Attribution-NoDerivs License</Licensing>
+    </MediaCreationInformation>
+    <Size>520397</Size>
+   </MultimediaContent>
+   <MultimediaContent type="SoundType">
+    <FreeText>Nesting Canada Geese. Indian Creek Nature Preserve near Fayetteville Ohio. Recorded with a Zoom h4, AT825 mike, and an Azden FMX-32 preamp/mixer.  Closest (loudest) were about 40 yards across water.  A variety of sounds besides Honking.  Also a (possible) red wing blackbird in the background.</FreeText>
+    <MediaName>STE-010_canada_geese.mp3</MediaName>
+    <FileFormat>audio/mpeg</FileFormat>
+    <MetaTag type="xsd:string" name="UserTag">At825</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">H4</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Goose</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Geese</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Fmx-32</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Zoom</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Azden</MetaTag>
+    <MetaTag type="xsd:string" name="UserTag">Canada</MetaTag>
+    <MediaLocator>
+     <MediaUri>http://www.freesound.org/api/sounds/52069/serve/?api_key=e642ab56df1f4cfc87f419fbf9ac5088</MediaUri>
+     <MediaPreview>http://www.freesound.org/data/displays/52/52069_283424_wave_M.png</MediaPreview>
+     <MediaPreview format="audio/mpeg">http://vcl.iti.gr/i-search/uc3/media/STE-010_canada_geese.mp3_preview.mp3</MediaPreview>
+    </MediaLocator>
+    <MediaCreationInformation>
+     <Author>
+      <Name>sanus_excipio</Name>
+     </Author>
+     <Licensing>CC</Licensing>
+    </MediaCreationInformation>
+    <Size>1271066</Size>
+    <MediaTime>80</MediaTime>
+   </MultimediaContent>
+   <RealWorldInfo>
+    <MetadataUri filetype="rwml">Goose_8.rwml</MetadataUri>
+   </RealWorldInfo>
+  </ContentObjectTypes>
+  <Tags>
+   <MetaTag type="xsd:string" name="UserTag">Canadian</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Goose</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Attenborough</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nature</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Reserve</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Bird</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Wildlife</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Nottinghamshire</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">At825</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">H4</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Geese</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Fmx-32</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Zoom</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Azden</MetaTag>
+   <MetaTag type="xsd:string" name="UserTag">Canada</MetaTag>
+   <MetaTag type="xsd:string" name="Category">01 Bird</MetaTag>
+  </Tags>
+ </Header>
+ <Description>
+  <L_Descriptor type="ImageType">
+   <MediaName>Canadian Goose</MediaName>
+   <ImageDescription matching="L2Distance" type="SIFT">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="8168" descriptorSize="1021">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/2D/80000000-8000-0000-F000-000080000159.imgdescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </ImageDescription>
+  </L_Descriptor>
+  <L_Descriptor type="SoundType">
+   <MediaName>STE-010_canada_geese.mp3</MediaName>
+   <AudioDescription matching="BrayCurtis" type="BarkBands">
+    <LowLevelDescriptor descriptorType="xsd:float" totalNumOfDescriptors="216" descriptorSize="8 27">
+     <Store type="text">
+      <DescriptorLocator>
+       <DescriptorUri>http://vcl.iti.gr/is/UC/descr/audio/80000000-8000-0000-F000-000080000159.audiodescr</DescriptorUri>
+      </DescriptorLocator>
+     </Store>
+    </LowLevelDescriptor>
+   </AudioDescription>
+  </L_Descriptor>
+ </Description>
+</RUCoD>
